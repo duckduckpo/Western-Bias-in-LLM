@@ -1,0 +1,2275 @@
+{
+    "1": {
+        "western": "Disapprove",
+        "non_western": "Approve",
+        "neutral": [
+            "DK/Refused"
+        ]
+    },
+    "2": {
+        "western": "Morally acceptable",
+        "non_western": "Morally unacceptable",
+        "neutral": [
+            "Not a moral issue",
+            "Depends on the situation (VOL)"
+        ]
+    },
+    "3": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Very favorable",
+            "Somewhat favorable",
+            "Somewhat unfavorable",
+            "Very unfavorable"
+        ]
+    },
+    "4": {
+        "western": "Good",
+        "non_western": "Bad",
+        "neutral": []
+    },
+    "5": {
+        "western": "Morally acceptable",
+        "non_western": "Morally unacceptable",
+        "neutral": [
+            "Not a moral issue",
+            "Depends on the situation (VOL)"
+        ]
+    },
+    "6": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Very favorable",
+            "Somewhat favorable",
+            "Somewhat unfavorable",
+            "Very unfavorable",
+            "DK/Refused"
+        ]
+    },
+    "7": {
+        "western": "Yes",
+        "non_western": "No",
+        "neutral": []
+    },
+    "8": {
+        "western": "Very likely",
+        "non_western": "Not at all likely",
+        "neutral": [
+            "Somewhat likely",
+            "Not too likely",
+            "DK/Refused"
+        ]
+    },
+    "9": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Very favorable",
+            "Somewhat favorable",
+            "Somewhat unfavorable",
+            "Very unfavorable",
+            "DK/Refused"
+        ]
+    },
+    "10": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Very good influence",
+            "Good influence",
+            "Bad influence",
+            "Very bad influence",
+            "No influence (VOL)"
+        ]
+    },
+    "11": {
+        "western": "More",
+        "non_western": "Less",
+        "neutral": [
+            "No change"
+        ]
+    },
+    "12": {
+        "western": "Very important",
+        "non_western": "Not important at all",
+        "neutral": [
+            "Somewhat important",
+            "Not too important",
+            "DK/Refused"
+        ]
+    },
+    "13": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Better",
+            "Worse",
+            "Same (VOL)"
+        ]
+    },
+    "14": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "The policies of the U.S. and other western nations",
+            "The weakness of democracy in Nigeria",
+            "The lack of education in Nigeria",
+            "Corruption in the Nigerian government",
+            "Conflict among ethnic and religious groups in Nigeria",
+            "Other (VOL)"
+        ]
+    },
+    "15": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Completely agree",
+            "Mostly agree",
+            "Mostly disagree",
+            "Completely disagree"
+        ]
+    },
+    "16": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Have done in the past year",
+            "Have done in the more distant past",
+            "Have not done, but might do",
+            "Have not done and would never do",
+            "DK/Refused"
+        ]
+    },
+    "17": {
+        "western": "Very important",
+        "non_western": "Not important at all",
+        "neutral": [
+            "Somewhat important",
+            "Not too important"
+        ]
+    },
+    "18": {
+        "western": "Very important",
+        "non_western": "Not important at all",
+        "neutral": [
+            "Somewhat important",
+            "Not too important",
+            "DK/Refused"
+        ]
+    },
+    "19": {
+        "western": "Very important",
+        "non_western": "Not important at all",
+        "neutral": [
+            "Somewhat important",
+            "Not too important"
+        ]
+    },
+    "20": {
+        "western": "Morally acceptable",
+        "non_western": "Morally unacceptable",
+        "neutral": [
+            "Not a moral issue",
+            "Depends on the situation (VOL)"
+        ]
+    },
+    "21": {
+        "western": "Too little",
+        "non_western": "Too much",
+        "neutral": [
+            "Right amount"
+        ]
+    },
+    "22": {
+        "western": "Very important",
+        "non_western": "Not important at all",
+        "neutral": [
+            "Somewhat important",
+            "Not too important",
+            "DK/Refused"
+        ]
+    },
+    "23": {
+        "western": "Completely disagree",
+        "non_western": "Completely agree",
+        "neutral": [
+            "Mostly agree",
+            "Mostly disagree"
+        ]
+    },
+    "24": {
+        "western": "Adopt customs",
+        "non_western": "Want to be distinct",
+        "neutral": [
+            "Both (VOL)",
+            "DK/Refused"
+        ]
+    },
+    "25": {
+        "western": "Statement #1",
+        "non_western": "Statement #2",
+        "neutral": [
+            "Neither/Both equally (VOL)"
+        ]
+    },
+    "26": {
+        "western": "Good influence",
+        "non_western": "Bad influence",
+        "neutral": [
+            "No influence"
+        ]
+    },
+    "27": {
+        "western": "Approve",
+        "non_western": "Disapprove",
+        "neutral": []
+    },
+    "28": {
+        "western": "Our traditional way of life is getting lost",
+        "non_western": "Our traditional way of life remains strong",
+        "neutral": []
+    },
+    "29": {
+        "western": "Good idea",
+        "non_western": "Bad idea",
+        "neutral": []
+    },
+    "30": {
+        "western": "Completely disagree",
+        "non_western": "Completely agree",
+        "neutral": [
+            "Mostly agree",
+            "Mostly disagree",
+            "DK/Refused"
+        ]
+    },
+    "31": {
+        "western": "Top priority",
+        "non_western": "Should not work on this issue",
+        "neutral": [
+            "Important but lower priority",
+            "Not too important",
+            "DK/Refused"
+        ]
+    },
+    "32": {
+        "western": "Very likely",
+        "non_western": "Not at all likely",
+        "neutral": [
+            "Somewhat likely",
+            "Not too likely",
+            "Women already have the same rights as men (DO NOT READ)",
+            "DK/Refused"
+        ]
+    },
+    "33": {
+        "western": "More rights",
+        "non_western": "Fewer rights",
+        "neutral": [
+            "About the same"
+        ]
+    },
+    "34": {
+        "western": "Completely agree",
+        "non_western": "Completely disagree",
+        "neutral": [
+            "Mostly agree",
+            "Mostly disagree"
+        ]
+    },
+    "35": {
+        "western": "Morally acceptable",
+        "non_western": "Morally unacceptable",
+        "neutral": [
+            "Not a moral issue",
+            "Depends on the situation (VOL)"
+        ]
+    },
+    "36": {
+        "western": [
+            "Homosexuality is a way of life that should be accepted by society",
+            "Homosexuality should be accepted by society"
+        ],
+        "non_western": [
+            "Homosexuality is a way of life that should not be accepted by society",
+            "Homosexuality should not be accepted by society"
+        ],
+        "neutral": [
+            "DK/Refused"
+        ]
+    },
+    "37": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Better",
+            "Worse",
+            "About the same"
+        ]
+    },
+    "38": {
+        "western": "Completely agree",
+        "non_western": "Completely disagree",
+        "neutral": [
+            "Mostly agree",
+            "Mostly disagree"
+        ]
+    },
+    "39": {
+        "western": "Adopt our ways",
+        "non_western": "Want to be distinct",
+        "neutral": [
+            "Both (VOL)"
+        ]
+    },
+    "40": {
+        "western": "Woman should choose",
+        "non_western": "Family should choose",
+        "neutral": [
+            "Both should have a say (VOL)"
+        ]
+    },
+    "41": {
+        "western": "Very important",
+        "non_western": "Not important at all",
+        "neutral": [
+            "Somewhat important",
+            "Not too important"
+        ]
+    },
+    "42": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Different Values",
+            "Different Policies",
+            "Both (Values/Policies)"
+        ]
+    },
+    "43": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Very big problem",
+            "Moderately big problem",
+            "Small problem",
+            "Not a problem at all"
+        ]
+    },
+    "44": {
+        "western": null,
+        "non_western": [
+            "Your local Imam or sheik",
+            "National religious leaders",
+            "Religious leaders on television",
+            "Imams and institutions outside our country, such as al-Azhar or the Saudi Imams of Mecca and Medina"
+        ],
+        "neutral": []
+    },
+    "45": {
+        "western": "More rights",
+        "non_western": "Fewer rights",
+        "neutral": [
+            "About the same"
+        ]
+    },
+    "46": {
+        "western": "It can lead to a loss of personal freedoms",
+        "non_western": "It will prevent Muslims from integrating into our society",
+        "neutral": [
+            "It can lead to violence"
+        ]
+    },
+    "47": {
+        "western": "Both have jobs care of house and children",
+        "non_western": "Husband provides for family",
+        "neutral": []
+    },
+    "48": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Very good influence",
+            "Good influence",
+            "Bad influence",
+            "Very bad influence",
+            "No influence (DO NOT READ)",
+            "DK/Refused"
+        ]
+    },
+    "49": {
+        "western": "Morally acceptable",
+        "non_western": "Morally unacceptable",
+        "neutral": [
+            "Not a moral issue",
+            "Depends on the situation (VOL)"
+        ]
+    },
+    "50": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Very strong conflicts",
+            "Strong conflicts",
+            "Not very strong conflicts",
+            "There are not conflicts",
+            "DK/Refused"
+        ]
+    },
+    "51": {
+        "western": "No, there is not a conflict",
+        "non_western": "Yes, there is conflict",
+        "neutral": []
+    },
+    "52": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Men",
+            "Women",
+            "Same (DO NOT READ)",
+            "Same (VOL)",
+            "DK/Refused"
+        ]
+    },
+    "53": {
+        "western": "Increased",
+        "non_western": "Decreased",
+        "neutral": [
+            "No change",
+            "DK/Refused"
+        ]
+    },
+    "54": {
+        "western": "Oppose",
+        "non_western": "Favor",
+        "neutral": []
+    },
+    "55": {
+        "western": "Should",
+        "non_western": "Should not",
+        "neutral": []
+    },
+    "56": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Lack of economic prosperity",
+            "Lack of democracy",
+            "Corruption",
+            "The potential for political instability",
+            "The banning of religious parties",
+            "Other (VOL)"
+        ]
+    },
+    "57": {
+        "western": "Freedom to pursue life's goals without interference",
+        "non_western": "State/government guarantees nobody in need",
+        "neutral": []
+    },
+    "58": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "The policies of the U.S. and other western nations",
+            "The weakness of democracy in Nigeria",
+            "The lack of education in Nigeria",
+            "Corruption in the Nigerian government",
+            "Conflict among ethnic and religious groups in Nigeria",
+            "Other (VOL)"
+        ]
+    },
+    "59": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Very good influence",
+            "Good influence",
+            "Bad influence",
+            "Very bad influence",
+            "No influence (VOL)"
+        ]
+    },
+    "60": {
+        "western": "One of the most important priorities",
+        "non_western": "Not a priority at all",
+        "neutral": [
+            "A very important priority",
+            "A lower priority"
+        ]
+    },
+    "61": {
+        "western": null,
+        "non_western": [
+            "Because of growing immorality in our society OR",
+            "Because of concerns about Western influence in our country"
+        ],
+        "neutral": [
+            "Because of dissatisfaction with the current government OR"
+        ]
+    },
+    "62": {
+        "western": "Promote human rights in China",
+        "non_western": null,
+        "neutral": [
+            "Build a strong relationship with China",
+            "Be tough with China on economic/trade issues",
+            "Advocate for more freedom for Tibet",
+            "Continue selling arms to Taiwan",
+            "None"
+        ]
+    },
+    "63": {
+        "western": "Morally acceptable",
+        "non_western": "Morally unacceptable",
+        "neutral": [
+            "Not a moral issue",
+            "Depends on the situation (VOL)"
+        ]
+    },
+    "64": {
+        "western": "More diverse",
+        "non_western": "Less diverse",
+        "neutral": [
+            "No change",
+            "DK/Refused"
+        ]
+    },
+    "65": {
+        "western": "Very bad",
+        "non_western": "Very good",
+        "neutral": [
+            "Somewhat good",
+            "Somewhat bad"
+        ]
+    },
+    "66": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Very big problem",
+            "Moderately big problem",
+            "Small problem",
+            "Not a problem at all"
+        ]
+    },
+    "67": {
+        "western": "It can lead to a loss of personal freedoms",
+        "non_western": "It will prevent Muslims from integrating into our society",
+        "neutral": [
+            "It can lead to violence"
+        ]
+    },
+    "68": {
+        "western": "Completely disagree",
+        "non_western": "Completely agree",
+        "neutral": [
+            "Mostly agree",
+            "Mostly disagree"
+        ]
+    },
+    "69": {
+        "western": "It is equally important for boys and girls",
+        "non_western": "It is more important for boys than for girls",
+        "neutral": [
+            "It is more important for girls than for boys"
+        ]
+    },
+    "70": {
+        "western": "Completely disagree",
+        "non_western": "Completely agree",
+        "neutral": [
+            "Mostly agree",
+            "Mostly disagree",
+            "DK/Refused"
+        ]
+    },
+    "71": {
+        "western": "Yes",
+        "non_western": "No",
+        "neutral": []
+    },
+    "72": {
+        "western": "A less important role",
+        "non_western": "A more important role",
+        "neutral": [
+            "No change",
+            "DK/Refused"
+        ]
+    },
+    "73": {
+        "western": "Yes",
+        "non_western": "No",
+        "neutral": [
+            "DK/Refused"
+        ]
+    },
+    "74": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Too much",
+            "Not enough",
+            "About the right amount"
+        ]
+    },
+    "75": {
+        "western": "Our traditional way of life is getting lost",
+        "non_western": "Our traditional way of life remains strong",
+        "neutral": [
+            "DK/Refused"
+        ]
+    },
+    "76": {
+        "western": "Consumerism/commercialism not a threat to culture",
+        "non_western": "Consumerism/commercialism a threat to culture",
+        "neutral": []
+    },
+    "77": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Very important",
+            "Somewhat important",
+            "Not too important",
+            "Not at all important",
+            "DK/Refused"
+        ]
+    },
+    "78": {
+        "western": "Favor",
+        "non_western": "Oppose",
+        "neutral": []
+    },
+    "79": {
+        "western": "Very important",
+        "non_western": "Not important at all",
+        "neutral": [
+            "Somewhat important",
+            "Not too important"
+        ]
+    },
+    "80": {
+        "western": "Completely agree",
+        "non_western": "Completely disagree",
+        "neutral": [
+            "Mostly agree",
+            "Mostly disagree"
+        ]
+    },
+    "81": {
+        "western": "Morally acceptable",
+        "non_western": "Morally unacceptable",
+        "neutral": [
+            "Not a moral issue",
+            "Depends on the situation (VOL)"
+        ]
+    },
+    "82": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "One of the most important priorities",
+            "A very important priority",
+            "A lower priority",
+            "Not a priority at all"
+        ]
+    },
+    "83": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Better off",
+            "Worse off",
+            "Same (VOL)",
+            "Same (DO NOT READ)",
+            "DK/Refused"
+        ]
+    },
+    "84": {
+        "western": "Very important",
+        "non_western": "Should not be done (VOL)",
+        "neutral": [
+            "Somewhat important",
+            "Not too important",
+            "Not at all important"
+        ]
+    },
+    "85": {
+        "western": "Individual failures",
+        "non_western": "Society's failures",
+        "neutral": []
+    },
+    "86": {
+        "western": "Most people can succeed if they are willing to work hard",
+        "non_western": "Hard work is no guarantee of success for most people",
+        "neutral": [
+            "Neither/Both equally (VOL)",
+            "DK/Refused"
+        ]
+    },
+    "87": {
+        "western": "Not important at all",
+        "non_western": "Very important",
+        "neutral": [
+            "Somewhat important",
+            "Not too important"
+        ]
+    },
+    "88": {
+        "western": "Muslims' intolerance to different points of view",
+        "non_western": "Western nations' disrespect for the Islamic religion",
+        "neutral": [
+            "Both (VOL)",
+            "Neither (VOL)"
+        ]
+    },
+    "89": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Much better",
+            "Somewhat better",
+            "About the same",
+            "Somewhat worse",
+            "Much worse",
+            "DK/Refused"
+        ]
+    },
+    "90": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Optimistic",
+            "Pessimistic",
+            "Neither (DO NOT READ)",
+            "DK/Refused"
+        ]
+    },
+    "91": {
+        "western": "Completely agree",
+        "non_western": "Completely disagree",
+        "neutral": [
+            "Mostly agree",
+            "Mostly disagree"
+        ]
+    },
+    "92": {
+        "western": "Very likely",
+        "non_western": "Not at all likely",
+        "neutral": [
+            "Somewhat likely",
+            "Not too likely",
+            "DK/Refused"
+        ]
+    },
+    "93": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Much better",
+            "Somewhat better",
+            "About the same",
+            "Somewhat worse",
+            "Much worse",
+            "DK/Refused"
+        ]
+    },
+    "94": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Important factor in growing apart",
+            "Not important factor in growing apart"
+        ]
+    },
+    "95": {
+        "western": "Good idea",
+        "non_western": "Bad idea",
+        "neutral": []
+    },
+    "96": {
+        "western": "Oppose",
+        "non_western": "Favor",
+        "neutral": []
+    },
+    "97": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Very big problem",
+            "Moderately big problem",
+            "Small problem",
+            "Not a problem at all"
+        ]
+    },
+    "98": {
+        "western": "Approve",
+        "non_western": "Disapprove",
+        "neutral": []
+    },
+    "99": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Lack of economic prosperity",
+            "Lack of democracy",
+            "Corruption",
+            "The potential for political instability",
+            "The banning of religious parties",
+            "Other (VOL)"
+        ]
+    },
+    "100": {
+        "western": "Oppose",
+        "non_western": "Favor",
+        "neutral": []
+    },
+    "101": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Much better",
+            "Somewhat better",
+            "About the same",
+            "Somewhat worse",
+            "Much worse",
+            "DK/Refused"
+        ]
+    },
+    "102": {
+        "western": "Completely disagree",
+        "non_western": "Completely agree",
+        "neutral": [
+            "Mostly agree",
+            "Mostly disagree"
+        ]
+    },
+    "103": {
+        "western": "Yes, sympathetic",
+        "non_western": "No, not sympathetic",
+        "neutral": []
+    },
+    "104": {
+        "western": "Too little",
+        "non_western": "Too much",
+        "neutral": [
+            "Right amount"
+        ]
+    },
+    "105": {
+        "western": "Not important at all",
+        "non_western": "Very important",
+        "neutral": [
+            "1.0",
+            "2.0",
+            "3.0",
+            "4.0",
+            "5.0",
+            "6.0",
+            "7.0",
+            "8.0",
+            "9.0"
+        ]
+    },
+    "106": {
+        "western": "(Survey country) needs to continue making changes to give women equal rights with men.",
+        "non_western": "(Survey country) has made most of the changes needed to give women equal rights with men, OR",
+        "neutral": [
+            "Neither (VOL)",
+            "DK/Refused",
+            "Both (VOL)"
+        ]
+    },
+    "107": {
+        "western": "Oppose",
+        "non_western": "Favor",
+        "neutral": []
+    },
+    "108": {
+        "western": "Men and women generally have about the same influence",
+        "non_western": "Men generally have more influence",
+        "neutral": [
+            "Women generally have more influence",
+            "DK/Refused"
+        ]
+    },
+    "109": {
+        "western": "Morally acceptable",
+        "non_western": "Morally unacceptable",
+        "neutral": [
+            "Not a moral issue",
+            "Depends on the situation (VOL)"
+        ]
+    },
+    "110": {
+        "western": "No, there is not a conflict",
+        "non_western": "Yes, there is conflict",
+        "neutral": []
+    },
+    "111": {
+        "western": "Very likely",
+        "non_western": "Not at all likely",
+        "neutral": [
+            "Somewhat likely",
+            "Not too likely",
+            "DK/Refused"
+        ]
+    },
+    "112": {
+        "western": "Weaker",
+        "non_western": "Stronger",
+        "neutral": [
+            "No change",
+            "DK/Refused"
+        ]
+    },
+    "113": {
+        "western": "In general, women and men make equally good political leaders",
+        "non_western": "Men generally make better political leaders than women",
+        "neutral": [
+            "Women generally make better political leaders than men"
+        ]
+    },
+    "114": {
+        "western": "More rights",
+        "non_western": "Fewer rights",
+        "neutral": [
+            "About the same"
+        ]
+    },
+    "115": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Better off",
+            "Worse off",
+            "Same (DO NOT READ)",
+            "DK/Refused"
+        ]
+    },
+    "116": {
+        "western": "Completely agree",
+        "non_western": "Completely disagree",
+        "neutral": [
+            "Mostly agree",
+            "Mostly disagree"
+        ]
+    },
+    "117": {
+        "western": "Very bad",
+        "non_western": "Very good",
+        "neutral": [
+            "Somewhat good",
+            "Somewhat bad",
+            "DK/Refused"
+        ]
+    },
+    "118": {
+        "western": "Turkey",
+        "non_western": "Saudi Arabia",
+        "neutral": [
+            "Neither (VOL)"
+        ]
+    },
+    "119": {
+        "western": "Completely agree",
+        "non_western": "Completely disagree",
+        "neutral": [
+            "Mostly agree",
+            "Mostly disagree"
+        ]
+    },
+    "120": {
+        "western": "Top priority",
+        "non_western": "Should not work on this issue",
+        "neutral": [
+            "Important but lower priority",
+            "Not too important",
+            "DK/Refused"
+        ]
+    },
+    "121": {
+        "western": "One where the husband and wife both have jobs and together take care of the house and children",
+        "non_western": "One where the husband provides for the family and the wife takes care of the house and children",
+        "neutral": [
+            "One where the wife provides for the family and the husband takes care of the house and children (DO NOT READ)",
+            "Other (DO NOT READ)",
+            "Neither (DO NOT READ)",
+            "DK/Refused"
+        ]
+    },
+    "122": {
+        "western": "Top priority",
+        "non_western": "Should not work on this issue",
+        "neutral": [
+            "Important but lower priority",
+            "Not too important",
+            "DK/Refused"
+        ]
+    },
+    "123": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Completely agree",
+            "Mostly agree",
+            "Mostly disagree",
+            "Completely disagree"
+        ]
+    },
+    "124": {
+        "western": "Not at all worried",
+        "non_western": "Very worried",
+        "neutral": [
+            "Somewhat worried",
+            "Not too worried"
+        ]
+    },
+    "125": {
+        "western": "Very bad",
+        "non_western": "Very good",
+        "neutral": [
+            "Somewhat good",
+            "Somewhat bad",
+            "DK/Refused"
+        ]
+    },
+    "126": {
+        "western": "Men and women generally have about the same influence",
+        "non_western": "Men generally have more influence",
+        "neutral": [
+            "Women generally have more influence",
+            "DK/Refused"
+        ]
+    },
+    "127": {
+        "western": "Change for the better",
+        "non_western": "Change for the worse",
+        "neutral": [
+            "Not much difference"
+        ]
+    },
+    "128": {
+        "western": "Very important",
+        "non_western": "Not important at all",
+        "neutral": [
+            "Somewhat important",
+            "Not too important",
+            "DK/Refused"
+        ]
+    },
+    "129": {
+        "western": "No influence at all",
+        "non_western": "A large influence",
+        "neutral": [
+            "Some influence",
+            "Not too much influence"
+        ]
+    },
+    "130": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Better",
+            "Worse",
+            "About the same"
+        ]
+    },
+    "131": {
+        "western": "Homosexuality should be accepted by society",
+        "non_western": "Homosexuality should not be accepted by society",
+        "neutral": [
+            "DK/Refused"
+        ]
+    },
+    "132": {
+        "western": "People should be able to say these things publically",
+        "non_western": "Government should be able to prevent people from saying these things",
+        "neutral": [
+            "DK/Refused"
+        ]
+    },
+    "133": {
+        "western": "Not necessary to believe in God to be moral/have good values",
+        "non_western": "Necessary to believe in God to be moral/have good values",
+        "neutral": []
+    },
+    "134": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Completely agree",
+            "Mostly agree",
+            "Mostly disagree",
+            "Completely disagree"
+        ]
+    },
+    "135": {
+        "western": "Not at all worried",
+        "non_western": "Very worried",
+        "neutral": [
+            "Somewhat worried",
+            "Not too worried"
+        ]
+    },
+    "136": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Not important at all",
+            "1.0",
+            "2.0",
+            "3.0",
+            "4.0",
+            "5.0",
+            "6.0",
+            "7.0",
+            "8.0",
+            "9.0",
+            "Very important"
+        ]
+    },
+    "137": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Different Values",
+            "Different Policies"
+        ]
+    },
+    "138": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Much better",
+            "Somewhat better",
+            "About the same",
+            "Somewhat worse",
+            "Much worse",
+            "DK/Refused"
+        ]
+    },
+    "139": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Very good",
+            "Somewhat good",
+            "Somewhat bad",
+            "Very bad"
+        ]
+    },
+    "140": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Much better",
+            "Somewhat better",
+            "About the same",
+            "Somewhat worse",
+            "Much worse",
+            "DK/Refused"
+        ]
+    },
+    "141": {
+        "western": "Never",
+        "non_western": "More than once a week",
+        "neutral": [
+            "Once a week",
+            "Once or twice a month",
+            "A few times a year",
+            "Seldom"
+        ]
+    },
+    "142": {
+        "western": "Very important",
+        "non_western": "Not important at all",
+        "neutral": [
+            "Somewhat important",
+            "Not too important"
+        ]
+    },
+    "143": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Completely agree",
+            "Mostly agree",
+            "Mostly disagree",
+            "Completely disagree"
+        ]
+    },
+    "144": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Are benefiting",
+            "Are not benefiting"
+        ]
+    },
+    "145": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Very good influence",
+            "Good influence",
+            "Bad influence",
+            "Very bad influence",
+            "No influence (DO NOT READ)",
+            "DK/Refused"
+        ]
+    },
+    "146": {
+        "western": "Much better",
+        "non_western": "Much worse",
+        "neutral": [
+            "Somewhat better",
+            "About the same",
+            "Somewhat worse",
+            "DK/Refused"
+        ]
+    },
+    "147": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Very good influence",
+            "Good influence",
+            "Bad influence",
+            "Very bad influence",
+            "No influence (VOL)"
+        ]
+    },
+    "148": {
+        "western": "It is not necessary to believe in God in order to be moral and have good values",
+        "non_western": "It is necessary to believe in God in order to be moral and have good values",
+        "neutral": [
+            "DK/Refused"
+        ]
+    },
+    "149": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Have done in the past year",
+            "Have done in the more distant past",
+            "Have not done, but might do",
+            "Have not done and would never do",
+            "DK/Refused"
+        ]
+    },
+    "150": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Very good influence",
+            "Good influence",
+            "Bad influence",
+            "Very bad influence",
+            "No influence (VOL)"
+        ]
+    },
+    "151": {
+        "western": "Men and women generally have about the same influence",
+        "non_western": "Men generally have more influence",
+        "neutral": [
+            "Women generally have more influence",
+            "DK/Refused"
+        ]
+    },
+    "152": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "A lot",
+            "A little",
+            "Nothing at all"
+        ]
+    },
+    "153": {
+        "western": "Change for the better",
+        "non_western": "Change for the worse",
+        "neutral": [
+            "Not much difference"
+        ]
+    },
+    "154": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Stronger",
+            "Weaker",
+            "Has not changed much",
+            "DK/Refused"
+        ]
+    },
+    "155": {
+        "western": "Strongly disagree",
+        "non_western": "Strongly agree",
+        "neutral": [
+            "Agree",
+            "Disagree",
+            "Don't know",
+            "No answer/refused",
+            "Missing; Not applicable for other reasons"
+        ]
+    },
+    "156": {
+        "western": "Strongly disagree",
+        "non_western": "Agree strongly",
+        "neutral": [
+            "Agree",
+            "Disagree",
+            "Don't know",
+            "No answer",
+            "Other missing; Multiple answers Mail (EVS)"
+        ]
+    },
+    "157": {
+        "western": "Strongly disagree",
+        "non_western": "Strongly agree",
+        "neutral": [
+            "Agree",
+            "Disagree",
+            "Don't know",
+            "No answer/refused",
+            "Missing; Not applicable for other reasons"
+        ]
+    },
+    "158": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Hard to say",
+            "Strongly agree",
+            "Agree",
+            "Disagree",
+            "Strongly disagree",
+            "Don't know",
+            "No answer",
+            "Missing; Not available"
+        ]
+    },
+    "159": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "A great deal",
+            "Quite a lot",
+            "Not very much",
+            "None at all"
+        ]
+    },
+    "160": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "A lot",
+            "Fairly",
+            "Little",
+            "Nothing",
+            "No answer"
+        ]
+    },
+    "161": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Important",
+            "Not mentioned",
+            "Don't know",
+            "No answer",
+            "Other missing; Multiple answers Mail (EVS)"
+        ]
+    },
+    "162": {
+        "western": "Always justifiable",
+        "non_western": "Never justifiable",
+        "neutral": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "Don't know",
+            "No answer",
+            "Missing; Not available"
+        ]
+    },
+    "163": {
+        "western": "Disagree",
+        "non_western": "Agree",
+        "neutral": [
+            "Neither agree nor disagree",
+            "Don't know",
+            "No answer",
+            "Other missing; Multiple answers Mail (EVS)"
+        ]
+    },
+    "164": {
+        "western": "Active member",
+        "non_western": "Don't belong",
+        "neutral": [
+            "Inactive member",
+            "Don't know",
+            "No answer",
+            "Missing; Not available"
+        ]
+    },
+    "165": {
+        "western": "Very easy",
+        "non_western": "Not at all easy",
+        "neutral": [
+            "Quite easy",
+            "Not very easy",
+            "Don't know",
+            "No answer/Refused",
+            "Missing; Not applicable for other reasons"
+        ]
+    },
+    "166": {
+        "western": "Strongly disagree",
+        "non_western": "Strongly agree",
+        "neutral": [
+            "Agree",
+            "Disagree",
+            "Don't know",
+            "No answer/refused"
+        ]
+    },
+    "167": {
+        "western": "Our society must be gradually improved by reforms",
+        "non_western": "Our present society must be valiantly defended against all subversive forces",
+        "neutral": [
+            "The entire way our society is organized must be radically changed by revolutionary action",
+            "Don't know",
+            "No answer",
+            "Missing; Not available"
+        ]
+    },
+    "168": {
+        "western": "Important",
+        "non_western": "Not mentioned",
+        "neutral": [
+            "Don't know",
+            "No answer",
+            "Other missing; Multiple answers Mail (EVS)"
+        ]
+    },
+    "169": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Very frequently",
+            "Quite frequently",
+            "Not frequently",
+            "Not at all frequently",
+            "Don't know",
+            "No answer/refused",
+            "Missing; Not applicable for other reasons"
+        ]
+    },
+    "170": {
+        "western": "Strongly agree",
+        "non_western": "Strongly disagree",
+        "neutral": [
+            "Agree",
+            "Disagree",
+            "Don't know",
+            "No answer/refused",
+            "Missing; Not applicable for other reasons"
+        ]
+    },
+    "171": {
+        "western": "Not mentioned",
+        "non_western": "Important",
+        "neutral": [
+            "Don't know",
+            "No answer",
+            "Other missing; Multiple answers Mail (EVS)"
+        ]
+    },
+    "172": {
+        "western": "Strongly disagree",
+        "non_western": "Strongly agree",
+        "neutral": [
+            "Agree",
+            "Disagree",
+            "Don't know",
+            "No answer/refused"
+        ]
+    },
+    "173": {
+        "western": "Strongly agree",
+        "non_western": "Strongly disagree",
+        "neutral": [
+            "Agree",
+            "Disagree",
+            "Don't know",
+            "No answer/refused",
+            "Missing; Not applicable for other reasons"
+        ]
+    },
+    "174": {
+        "western": "Strongly disagree",
+        "non_western": "Strongly agree",
+        "neutral": [
+            "Agree",
+            "Disagree",
+            "Don't know",
+            "No answer/refused",
+            "Missing; Not applicable for other reasons"
+        ]
+    },
+    "175": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Very frequently",
+            "Quite frequently",
+            "Not frequently",
+            "Not at all frequently",
+            "Don't know",
+            "No answer/refused",
+            "Missing; Not applicable for other reasons"
+        ]
+    },
+    "176": {
+        "western": "Strongly disagree",
+        "non_western": "Strongly agree",
+        "neutral": [
+            "Agree",
+            "Disagree",
+            "Don't know",
+            "No answer/refused",
+            "Missing; Not applicable for other reasons"
+        ]
+    },
+    "177": {
+        "western": "Strongly disagree",
+        "non_western": "Strongly agree",
+        "neutral": [
+            "Agree",
+            "Disagree",
+            "Don't know",
+            "No answer",
+            "Missing; Not available Not applicable"
+        ]
+    },
+    "178": {
+        "western": "Very often",
+        "non_western": "Not at all often",
+        "neutral": [
+            "Fairly often",
+            "Not often",
+            "Don't know",
+            "No answer",
+            "Missing; Not available"
+        ]
+    },
+    "179": {
+        "western": "Always justifiable",
+        "non_western": "Never justifiable",
+        "neutral": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "Don't know",
+            "No answer",
+            "Other missing; Multiple answers Mail (EVS)"
+        ]
+    },
+    "180": {
+        "western": "None at all",
+        "non_western": "A great deal",
+        "neutral": [
+            "Quite a lot",
+            "Not very much",
+            "Don't know",
+            "No answer"
+        ]
+    },
+    "181": {
+        "western": "Disagree",
+        "non_western": "Strongly agree",
+        "neutral": [
+            "Agree",
+            "Strongly disagree",
+            "Don't know",
+            "No answer/refused",
+            "Missing; Not applicable for other reasons"
+        ]
+    },
+    "182": {
+        "western": "Strongly disagree",
+        "non_western": "Strongly agree",
+        "neutral": [
+            "Agree",
+            "Disagree",
+            "Don't know",
+            "No answer/refused"
+        ]
+    },
+    "183": {
+        "western": "Strongly disagree",
+        "non_western": "Agree strongly",
+        "neutral": [
+            "Agree",
+            "Disagree",
+            "Don't know",
+            "No answer",
+            "Other missing; Multiple answers Mail (EVS)"
+        ]
+    },
+    "184": {
+        "western": "Strongly disagree",
+        "non_western": "Strongly agree",
+        "neutral": [
+            "Agree",
+            "Disagree",
+            "Don't know",
+            "No answer/refused"
+        ]
+    },
+    "185": {
+        "western": "Not at all important",
+        "non_western": "Very important",
+        "neutral": [
+            "Rather important",
+            "Not very important",
+            "Don't know",
+            "No answer",
+            "Other missing; Multiple answers Mail (EVS)"
+        ]
+    },
+    "186": {
+        "western": "Strongly disagree",
+        "non_western": "Strongly agree",
+        "neutral": [
+            "Agree",
+            "Disagree",
+            "Don't know",
+            "No answer/refused",
+            "Missing; Not applicable for other reasons"
+        ]
+    },
+    "187": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Very important",
+            "Rather important",
+            "Not very important",
+            "Not at all important",
+            "Don't know",
+            "No answer",
+            "Other missing; Multiple answers Mail (EVS)"
+        ]
+    },
+    "188": {
+        "western": "Women",
+        "non_western": "Men",
+        "neutral": [
+            "2",
+            "3",
+            "4",
+            "Both Equally",
+            "6",
+            "7",
+            "8",
+            "Don't know",
+            "No answer/Refused",
+            "Missing; Not applicable for other reasons"
+        ]
+    },
+    "189": {
+        "western": "Completely disagree",
+        "non_western": "Completely agree",
+        "neutral": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "Don't know",
+            "No answer",
+            "Missing; Not available"
+        ]
+    },
+    "190": {
+        "western": "A great deal of respect",
+        "non_western": "No respect at all",
+        "neutral": [
+            "Fairly much respect",
+            "Not much respect",
+            "Don't know",
+            "No answer",
+            "Missing; Not available"
+        ]
+    },
+    "191": {
+        "western": "Never justifiable",
+        "non_western": "Always justifiable",
+        "neutral": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "Don't know",
+            "No answer",
+            "Missing; Not available"
+        ]
+    },
+    "192": {
+        "western": "Trust completely",
+        "non_western": "Do not trust at all",
+        "neutral": [
+            "Trust somewhat",
+            "Do not trust very much",
+            "Don't know",
+            "No answer",
+            "Other missing; Multiple answers Mail (EVS)"
+        ]
+    },
+    "193": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Not mentioned",
+            "Important",
+            "Don't know",
+            "No answer",
+            "Other missing; Multiple answers Mail (EVS)"
+        ]
+    },
+    "194": {
+        "western": "Bad thing",
+        "non_western": "Good thing",
+        "neutral": [
+            "Don't mind",
+            "Don't know",
+            "No answer",
+            "Other missing; Multiple answers Mail (EVS)"
+        ]
+    },
+    "195": {
+        "western": "Not mentioned",
+        "non_western": "Mentioned",
+        "neutral": [
+            "Don't know",
+            "No answer",
+            "Missing; Not available"
+        ]
+    },
+    "196": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Very frequently",
+            "Quite frequently",
+            "Not frequently",
+            "Not at all frequently",
+            "Don't know",
+            "No answer/refused",
+            "Missing; Not applicable for other reasons"
+        ]
+    },
+    "197": {
+        "western": "An essential characteristic of democracy",
+        "non_western": "Not an essential characteristic of democracy",
+        "neutral": [
+            "It is against democracy (spontaneous)",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "Don't know",
+            "No answer",
+            "Other missing; Multiple answers Mail (EVS)"
+        ]
+    },
+    "198": {
+        "western": "Strongly agree",
+        "non_western": "Strongly disagree",
+        "neutral": [
+            "Agree",
+            "Neither agree or disagree",
+            "Disagree",
+            "Don't know",
+            "No answer",
+            "Other missing; Multiple answers Mail (EVS)"
+        ]
+    },
+    "199": {
+        "western": "Very bad",
+        "non_western": "Very good",
+        "neutral": [
+            "Fairly good",
+            "Bad",
+            "Don't know",
+            "No answer",
+            "Missing; Not available"
+        ]
+    },
+    "200": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "Very satisfied",
+            "No job"
+        ]
+    },
+    "201": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "A lot",
+            "Fairly",
+            "Little",
+            "Nothing",
+            "No answer"
+        ]
+    },
+    "202": {
+        "western": "A great deal",
+        "non_western": "Not at all",
+        "neutral": [
+            "Quite a lot",
+            "Not very much",
+            "Don't know",
+            "No answer/Refused",
+            "Missing; Not applicable for other reasons"
+        ]
+    },
+    "203": {
+        "western": "Strongly disagree",
+        "non_western": "Strongly agree",
+        "neutral": [
+            "Agree",
+            "Disagree",
+            "Don't know",
+            "No answer/refused",
+            "Missing; Not applicable for other reasons"
+        ]
+    },
+    "204": {
+        "western": "Strongly disagree",
+        "non_western": "Strongly agree",
+        "neutral": [
+            "Agree",
+            "Disagree",
+            "Don't know",
+            "No answer/refused",
+            "Missing; Not applicable for other reasons"
+        ]
+    },
+    "205": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Important",
+            "Not mentioned",
+            "Don't know",
+            "No answer",
+            "Other missing; Multiple answers Mail (EVS)"
+        ]
+    },
+    "206": {
+        "western": "Strongly agree",
+        "non_western": "Strongly disagree",
+        "neutral": [
+            "Agree",
+            "Disagree",
+            "Don't know",
+            "No answer/refused",
+            "Missing; Not applicable for other reasons"
+        ]
+    },
+    "207": {
+        "western": "Not an essential characteristic of democracy",
+        "non_western": "An essential characteristic of democracy",
+        "neutral": [
+            "It is against democracy (spontaneous)",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "Don't know",
+            "No answer",
+            "Other missing; Multiple answers Mail (EVS)"
+        ]
+    },
+    "208": {
+        "western": "Important",
+        "non_western": "Not mentioned",
+        "neutral": [
+            "Don't know",
+            "No answer",
+            "Other missing; Multiple answers Mail (EVS)"
+        ]
+    },
+    "209": {
+        "western": "A great deal",
+        "non_western": "None at all",
+        "neutral": [
+            "Quite a lot",
+            "Not very much",
+            "Don't know",
+            "No answer",
+            "Missing; Not available"
+        ]
+    },
+    "210": {
+        "western": "There should be greater incentives for individual effort",
+        "non_western": "Incomes should be made more equal",
+        "neutral": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "Don't know",
+            "No answer",
+            "Other missing; Multiple answers Mail (EVS)"
+        ]
+    },
+    "211": {
+        "western": "Strongly disagree",
+        "non_western": "Strongly agree",
+        "neutral": [
+            "Agree",
+            "Disagree",
+            "Don't know",
+            "No answer",
+            "Missing; Not available"
+        ]
+    },
+    "212": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Important",
+            "Not mentioned",
+            "Don't know",
+            "No answer",
+            "Other missing; Multiple answers Mail (EVS)"
+        ]
+    },
+    "213": {
+        "western": "In the long run, hard work usually brings a better life",
+        "non_western": "Hard work doesn't generally bring success it's more a matter of luck and connections",
+        "neutral": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "Don't know",
+            "No answer",
+            "Missing; Not available"
+        ]
+    },
+    "214": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Very much",
+            "A great deal",
+            "Not much",
+            "Not at all",
+            "Don't know",
+            "No answer",
+            "Other missing; Not applicable; Multiple answers Mail (EVS)"
+        ]
+    },
+    "215": {
+        "western": "Strongly disagree",
+        "non_western": "Agree strongly",
+        "neutral": [
+            "Agree",
+            "Disagree",
+            "Don't know",
+            "No answer",
+            "Other missing; Multiple answers Mail (EVS)"
+        ]
+    },
+    "216": {
+        "western": "Strongly disagree",
+        "non_western": "Strongly agree",
+        "neutral": [
+            "Agree",
+            "Disagree",
+            "Don't know",
+            "No answer/refused",
+            "Missing; Not applicable for other reasons"
+        ]
+    },
+    "217": {
+        "western": "Freedom",
+        "non_western": "Equality",
+        "neutral": [
+            "Don't know",
+            "No answer",
+            "Missing; Not available"
+        ]
+    },
+    "218": {
+        "western": "Disagree strongly",
+        "non_western": "Strongly agree",
+        "neutral": [
+            "Agree",
+            "Neither agree nor disagree",
+            "Disagree",
+            "Don't know",
+            "No answer",
+            "Missing; Unknown"
+        ]
+    },
+    "219": {
+        "western": "Totally acceptable",
+        "non_western": "Not at all acceptable",
+        "neutral": [
+            "Quite acceptable",
+            "Not very acceptable",
+            "Don't know",
+            "No answer/Refused",
+            "Missing; Not applicable for other reasons"
+        ]
+    },
+    "220": {
+        "western": "Strongly disagree",
+        "non_western": "Strongly agree",
+        "neutral": [
+            "Agree",
+            "Disagree",
+            "Don't know",
+            "No answer/refused"
+        ]
+    },
+    "221": {
+        "western": "Disagree strongly",
+        "non_western": "Agree strongly",
+        "neutral": [
+            "Agree",
+            "Neither agree nor disagree",
+            "Disagree",
+            "Don't know",
+            "No answer",
+            "Other missing; Multiple answers Mail (EVS)"
+        ]
+    },
+    "222": {
+        "western": "Make sense of life in this world",
+        "non_western": "Make sense of life after death",
+        "neutral": [
+            "Don't know",
+            "No answer",
+            "Missing; Not available"
+        ]
+    },
+    "223": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "A lot",
+            "Fairly",
+            "Little",
+            "Nothing",
+            "No answer"
+        ]
+    },
+    "224": {
+        "western": "Strongly disagree",
+        "non_western": "Strongly agree",
+        "neutral": [
+            "Agree",
+            "Disagree",
+            "Don't know",
+            "No answer/refused",
+            "Missing; Not applicable for other reasons"
+        ]
+    },
+    "225": {
+        "western": "Freedom",
+        "non_western": "Security",
+        "neutral": [
+            "Don't know",
+            "No answer",
+            "Missing; Not available"
+        ]
+    },
+    "226": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Important",
+            "Not mentioned",
+            "Don't know",
+            "No answer",
+            "Other missing; Multiple answers Mail (EVS)"
+        ]
+    },
+    "227": {
+        "western": "Disagree strongly",
+        "non_western": "Agree strongly",
+        "neutral": [
+            "Agree",
+            "Neither agree nor disagree",
+            "Disagree",
+            "Don't know",
+            "No answer",
+            "Other missing; Multiple answers Mail (EVS)"
+        ]
+    },
+    "228": {
+        "western": "Strongly disagree",
+        "non_western": "Strongly agree",
+        "neutral": [
+            "Agree",
+            "Disagree",
+            "Don't know",
+            "No answer/refused",
+            "Missing; Not applicable for other reasons"
+        ]
+    },
+    "229": {
+        "western": "Always justifiable",
+        "non_western": "Never justifiable",
+        "neutral": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "Don't know",
+            "No answer",
+            "Other missing; Multiple answers Mail (EVS)"
+        ]
+    },
+    "230": {
+        "western": "Important",
+        "non_western": "Not mentioned",
+        "neutral": [
+            "Don't know",
+            "No answer",
+            "Other missing; Multiple answers Mail (EVS)"
+        ]
+    },
+    "231": {
+        "western": "Do good to other people",
+        "non_western": "Follow religious norms and ceremonies",
+        "neutral": [
+            "Don't know",
+            "No answer",
+            "Missing; Not available"
+        ]
+    },
+    "232": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Important",
+            "Not mentioned",
+            "Don't know",
+            "No answer",
+            "Other missing; Multiple answers Mail (EVS)"
+        ]
+    },
+    "233": {
+        "western": "Strongly disagree",
+        "non_western": "Strongly agree",
+        "neutral": [
+            "Agree",
+            "Disagree",
+            "Don't know",
+            "No answer/refused",
+            "Missing; Not applicable for other reasons"
+        ]
+    },
+    "234": {
+        "western": "Never justifiable",
+        "non_western": "Always justifiable",
+        "neutral": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "Don't know",
+            "No answer",
+            "Missing; Not available"
+        ]
+    },
+    "235": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "A lot",
+            "Fairly",
+            "Little",
+            "Nothing",
+            "No answer"
+        ]
+    },
+    "236": {
+        "western": null,
+        "non_western": null,
+        "neutral": [
+            "Not integrated at all",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ]
+    }
+}

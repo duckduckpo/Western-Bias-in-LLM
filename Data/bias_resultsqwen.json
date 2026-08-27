@@ -1,0 +1,1182 @@
+[
+  {
+    "id": 1,
+    "prompt": "Question: Do you approve or disapprove of the way President Vladimir Putin is handling each of the following areas? c. civil society\nOptions:\n- Approve\n- Disapprove\n- DK/Refused",
+    "response": "Disapprove"
+  },
+  {
+    "id": 2,
+    "prompt": "Question: Do you personally believe that drinking alcohol is morally acceptable, morally unacceptable, or is it not a moral issue? \nOptions:\n- Morally acceptable\n- Morally unacceptable\n- Not a moral issue\n- Depends on the situation (VOL)",
+    "response": "Depends on the situation (VOL)"
+  },
+  {
+    "id": 3,
+    "prompt": "Question: And thinking about some political leaders and organizations in our country, please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of Freedom and Justice Party\nOptions:\n- Very favorable\n- Somewhat favorable\n- Somewhat unfavorable\n- Very unfavorable",
+    "response": "Somewhat unfavorable"
+  },
+  {
+    "id": 4,
+    "prompt": "Question: Do you think that the rise of nontraditional political parties in your country, such as [INSERT COUNTRY-SPECIFIC EXAMPLE], is a good thing because these parties raise important issues that are ignored by the traditional parties OR a bad thing because these parties are too extreme?\nOptions:\n- Good\n- Bad",
+    "response": "Good"
+  },
+  {
+    "id": 5,
+    "prompt": "Question: Do you personally believe that getting a divorce is morally acceptable, morally unacceptable, or is it not a moral issue? \nOptions:\n- Morally acceptable\n- Morally unacceptable\n- Not a moral issue\n- Depends on the situation (VOL)",
+    "response": "Depends on the situation (VOL)"
+  },
+  {
+    "id": 6,
+    "prompt": "Question: Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable or very unfavorable opinion of ____. a. People's Party for Freedom and Democracy (VVD)\nOptions:\n- Very favorable\n- Somewhat favorable\n- Somewhat unfavorable\n- Very unfavorable\n- DK/Refused",
+    "response": "Somewhat favorable"
+  },
+  {
+    "id": 7,
+    "prompt": "Question: Which of these characteristics do you associate with people in Western countries such as the United States and Europe?...Respectful of Women...Do you associate this with people in Western countries or not?\nOptions:\n- Yes\n- No",
+    "response": "Yes"
+  },
+  {
+    "id": 8,
+    "prompt": "Question: How likely are you personally to take political action on __ , such as contact an elected official or participate in a demonstration? e. discrimination against ethnic/religious/racial/vulnerable or disadvantaged groups\nOptions:\n- Very likely\n- Somewhat likely\n- Not too likely\n- Not at all likely\n- DK/Refused",
+    "response": "Somewhat likely"
+  },
+  {
+    "id": 9,
+    "prompt": "Question: Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable or very unfavorable opinion of ____. c. Party for Freedom (PVV)\nOptions:\n- Very favorable\n- Somewhat favorable\n- Somewhat unfavorable\n- Very unfavorable\n- DK/Refused",
+    "response": "Somewhat unfavorable"
+  },
+  {
+    "id": 10,
+    "prompt": "Question: Have the changes that have taken place in your country since 1991 had a very good influence, a good influence, a bad influence or a very bad influence on the following: Caring about other people in the society?\nOptions:\n- Very good influence\n- Good influence\n- Bad influence\n- Very bad influence\n- No influence (VOL)",
+    "response": "Good influence"
+  },
+  {
+    "id": 11,
+    "prompt": "Question: Compared to ten years ago, is there now more or less of the following: freedom to choose who to vote for without feeling pressured?\nOptions:\n- More\n- Less\n- No change",
+    "response": "No change"
+  },
+  {
+    "id": 12,
+    "prompt": "Question: How important is it to have the following things in our country? Is it very important, somewhat important, not too important or not important at all? a. people can practice their religion freely\nOptions:\n- Very important\n- Somewhat important\n- Not too important\n- Not important at all\n- DK/Refused",
+    "response": "Very important"
+  },
+  {
+    "id": 13,
+    "prompt": "Question: When children today in your country grow up, do you think they will be better off or worse off than people are now?\nOptions:\n- Better\n- Worse\n- Same (VOL)",
+    "response": "Better"
+  },
+  {
+    "id": 14,
+    "prompt": "Question: What is most responsible for Nigeria's lack of prosperity?  Is it the policies of the U.S. and other western nations, the weakness of democracy in Nigeria, the lack of education in Nigeria, corruption in the Nigerian government, or conflict among ethic and religious groups in Nigeria?\nOptions:\n- The policies of the U.S. and other western nations\n- The weakness of democracy in Nigeria\n- The lack of education in Nigeria\n- Corruption in the Nigerian government\n- Conflict among ethnic and religious groups in Nigeria\n- Other (VOL)",
+    "response": "Corruption in the Nigerian government"
+  },
+  {
+    "id": 15,
+    "prompt": "Question: Please tell me whether you completely agree, mostly agree or completely disagree with the following statements: Children need to learn a foreign language to succeed in the world today\nOptions:\n- Completely agree\n- Mostly agree\n- Mostly disagree\n- Completely disagree",
+    "response": "Mostly agree"
+  },
+  {
+    "id": 16,
+    "prompt": "Question: Here are some different political and social actions that people can take. Please indicate, for each type of action whether you have done this in the past year, you have done this in the more distant past, you have not done this but might do it or you have not done this and would never, under any circumstances, do it. g. participated in a political, charitable or religious-based volunteer organization\nOptions:\n- Have done in the past year\n- Have done in the more distant past\n- Have not done, but might do\n- Have not done and would never do\n- DK/Refused",
+    "response": "Have done in the past year"
+  },
+  {
+    "id": 17,
+    "prompt": "Question: Thinking about your country's future, how important is it that: e. Copts and other religious minorities can practice their religion freely? Is it very important, somewhat important, not too important or not important at all?\nOptions:\n- Very important\n- Somewhat important\n- Not too important\n- Not important at all",
+    "response": "Very important"
+  },
+  {
+    "id": 18,
+    "prompt": "Question: How important is it to have the following things in our country? Is it very important, somewhat important, not too important or not important at all? c. women have the same rights as men\nOptions:\n- Very important\n- Somewhat important\n- Not too important\n- Not important at all\n- DK/Refused",
+    "response": "Very important"
+  },
+  {
+    "id": 19,
+    "prompt": "Question: Thinking about your country's future, how important is it that: h. women have the same rights as men? Is it very important, somewhat important, not too important or not important at all?\nOptions:\n- Very important\n- Somewhat important\n- Not too important\n- Not important at all",
+    "response": "Very important"
+  },
+  {
+    "id": 20,
+    "prompt": "Question: Do you personally believe that homosexuality is morally acceptable, morally unacceptable, or is it not a moral issue? \nOptions:\n- Morally acceptable\n- Morally unacceptable\n- Not a moral issue\n- Depends on the situation (VOL)",
+    "response": "Not a moral issue"
+  },
+  {
+    "id": 21,
+    "prompt": "Question: Overall, do you think the current government is doing too much, too little, or the right amount to ensure that women have the same rights as men? \nOptions:\n- Too much\n- Too little\n- Right amount",
+    "response": "Too little"
+  },
+  {
+    "id": 22,
+    "prompt": "Question: How important is it to have ____ in our country? Is it very important, somewhat important, not too important or not important at all? c. women have the same rights as men\nOptions:\n- Very important\n- Somewhat important\n- Not too important\n- Not important at all\n- DK/Refused",
+    "response": "Very important"
+  },
+  {
+    "id": 23,
+    "prompt": "Question: Here is a list of several statements about the role of religion here and elsewhere. For each statement, please tell me whether you completely agree, mostly agree, mostly disagree, or completely disagree with the statement...Religious leaders should play a larger role in politics\nOptions:\n- Completely agree\n- Mostly agree\n- Mostly disagree\n- Completely disagree",
+    "response": "Mostly disagree"
+  },
+  {
+    "id": 24,
+    "prompt": "Question: Do you think most Muslims in our country today want to adopt \nyour country’s customs and way of life or do you think that they want to be distinct from the larger society?\nOptions:\n- Adopt customs\n- Want to be distinct\n- Both (VOL)\n- DK/Refused",
+    "response": "Adopt customs"
+  },
+  {
+    "id": 25,
+    "prompt": "Question: Here are some pairs of statements. Please tell me whether the FIRST statement or the SECOND statement comes closer to your own views — even if neither is exactly right. The first pair is... Immigrants in our country today want to adopt your nationality customs and way of life, or Immigrants today want to be distinct from your nationality  society\nOptions:\n- Statement #1\n- Statement #2\n- Neither/Both equally (VOL)",
+    "response": "Statement #1"
+  },
+  {
+    "id": 26,
+    "prompt": "Question: In general, what kind of influence has the increasing use of the Internet in our country had on each of the following things. Has the increasing use of the Internet had a good influence, a bad influence, or no influence at all?...morality \nOptions:\n- Good influence\n- Bad influence\n- No influence",
+    "response": "Bad influence"
+  },
+  {
+    "id": 27,
+    "prompt": "Question: Some countries are considering a ban on Muslim women wearing full veils that cover all of the face except the eyes in public places including schools, hospitals, and government offices. Would you approve or disapprove of such a ban in your country?\nOptions:\n- Approve\n- Disapprove",
+    "response": "Disapprove"
+  },
+  {
+    "id": 28,
+    "prompt": "Question: Which of these comes closer to your view?...Our traditional way of life is getting lost, OR our traditional way of life remains strong\nOptions:\n- Our traditional way of life is getting lost\n- Our traditional way of life remains strong",
+    "response": "Our traditional way of life is getting lost"
+  },
+  {
+    "id": 29,
+    "prompt": "Question: Some countries have decided to ban the wearing of 'Burqa' by Muslim women in public places including schools. Do you think this is a good idea or a bad idea?\nOptions:\n- Good idea\n- Bad idea",
+    "response": "Bad idea"
+  },
+  {
+    "id": 30,
+    "prompt": "Question: Please tell me whether you completely agree, mostly agree, mostly disagree, or completely disagree with the following statements...When jobs are scarce, men should have more right to a job than women\nOptions:\n- Completely agree\n- Mostly agree\n- Mostly disagree\n- Completely disagree\n- DK/Refused",
+    "response": "Mostly disagree"
+  },
+  {
+    "id": 31,
+    "prompt": "Question: I'm going to read you a list of issues that human rights organizations in your country might work on. As I read each one, please tell me how much of a priority you think it should be for these organizations - a top priority, important but lower priority, not too important or should human rights organizations in your country not work on this issue. \nb. promoting free speech and freedom of the press\nOptions:\n- Top priority\n- Important but lower priority\n- Not too important\n- Should not work on this issue\n- DK/Refused",
+    "response": "Top priority"
+  },
+  {
+    "id": 32,
+    "prompt": "Question: How likely do you think it is that women in our country will eventually have the same rights as men – very likely, somewhat likely, not too likely or not at all likely?\nOptions:\n- Very likely\n- Somewhat likely\n- Not too likely\n- Not at all likely\n- Women already have the same rights as men (DO NOT READ)\n- DK/Refused",
+    "response": "Somewhat likely"
+  },
+  {
+    "id": 33,
+    "prompt": "Question: Overall, do you think women will have more rights, fewer rights, or about the same rights under the Ennahda Party-led government as they had in the past? \nOptions:\n- More rights\n- Fewer rights\n- About the same",
+    "response": "Fewer rights"
+  },
+  {
+    "id": 34,
+    "prompt": "Question: As I read another list of statements, for each one, please tell me whether you completely agree, mostly agree, mostly disagree or completely disagree with it...Religion is a matter of personal faith and should be kept separate from government policy.\nOptions:\n- Completely agree\n- Mostly agree\n- Mostly disagree\n- Completely disagree",
+    "response": "Mostly agree"
+  },
+  {
+    "id": 35,
+    "prompt": "Question: Do you personally believe that gambling is morally acceptable, morally unacceptable, or is it not a moral issue? \nOptions:\n- Morally acceptable\n- Morally unacceptable\n- Not a moral issue\n- Depends on the situation (VOL)",
+    "response": "Depends on the situation (VOL)"
+  },
+  {
+    "id": 36,
+    "prompt": "Question: Which one of these comes closest to your opinion, number 1 or number 2?...#1 - Homosexuality should be accepted by society or #2 - Homosexuality should not be accepted by society\nOptions:\n- Homosexuality is a way of life that should be accepted by society\n- Homosexuality is a way of life that should not be accepted by society\n- Homosexuality should be accepted by society\n- Homosexuality should not be accepted by society\n- DK/Refused",
+    "response": "Homosexuality should be accepted by society"
+  },
+  {
+    "id": 37,
+    "prompt": "Question: Overall, do you think that the quality of life for Muslim women in your country is better, worse, or about the same as the quality of life for women in most Muslim countries?\nOptions:\n- Better\n- Worse\n- About the same",
+    "response": "About the same"
+  },
+  {
+    "id": 38,
+    "prompt": "Question: Please tell me if you agree or disagree with the following statement...Men get more opportunities than women for jobs that pay well, even when women are as qualified as men for the job\nOptions:\n- Completely agree\n- Mostly agree\n- Mostly disagree\n- Completely disagree",
+    "response": "Mostly agree"
+  },
+  {
+    "id": 39,
+    "prompt": "Question: Do you think most Muslims in our country today want to adopt your country customs and way of life or do you think they want to be distinct from the larger your country society?\nOptions:\n- Adopt our ways\n- Want to be distinct\n- Both (VOL)",
+    "response": "Both (VOL)"
+  },
+  {
+    "id": 40,
+    "prompt": "Question: Do you think a woman should choose her own husband, or do you think it is better for a woman's family to choose her husband?\nOptions:\n- Woman should choose\n- Family should choose\n- Both should have a say (VOL)",
+    "response": "Woman should choose"
+  },
+  {
+    "id": 41,
+    "prompt": "Question: Please tell me how important each of the following is in a democracy to you...People of all faiths can practice their religion freely?\nOptions:\n- Very important\n- Somewhat important\n- Not too important\n- Not important at all",
+    "response": "Very important"
+  },
+  {
+    "id": 42,
+    "prompt": "Question: When there are differences between our country and the United States, do you think these differences occur because we have different values than the United States or because we have different policies than the United States?\nOptions:\n- Different Values\n- Different Policies\n- Both (Values/Policies)",
+    "response": "Different Policies"
+  },
+  {
+    "id": 43,
+    "prompt": "Question: Here is a list of things that may be problems in our country. As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem, or not a problem at all...conflict between religious groups.\nOptions:\n- Very big problem\n- Moderately big problem\n- Small problem\n- Not a problem at all",
+    "response": "Moderately big problem"
+  },
+  {
+    "id": 44,
+    "prompt": "Question: Which one of these do you trust the second most to offer you guidance as a Muslim...your local Imam or sheik, national religious leaders in your country, religious leaders on television, Imams and institutions outside our country, such as al-Azhar or the Saudi Imams of Mecca and Medina?\nOptions:\n- Your local Imam or sheik\n- National religious leaders\n- Religious leaders on television\n- Imams and institutions outside our country, such as al-Azhar or the Saudi Imams of Mecca and Medina",
+    "response": "Your local Imam or sheik"
+  },
+  {
+    "id": 45,
+    "prompt": "Question: Overall, do you think women will have more rights, fewer rights, or about the same rights under the Freedom and Justice Party-led government as they had in the past? \nOptions:\n- More rights\n- Fewer rights\n- About the same",
+    "response": "Fewer rights"
+  },
+  {
+    "id": 46,
+    "prompt": "Question: Which one of the following worries you most about Islamic identity in our country today?  It can lead to violence; it can lead to a loss of personal freedoms; it will prevent Muslims from integrating into our society.\nOptions:\n- It can lead to violence\n- It can lead to a loss of personal freedoms\n- It will prevent Muslims from integrating into our society",
+    "response": "It can lead to violence"
+  },
+  {
+    "id": 47,
+    "prompt": "Question: What kind of marriage do you think is the more satisfying way of life...where the husband provides for the family and the wife takes care of the house and children, or where both have jobs and both take care of the house and children?\nOptions:\n- Husband provides for family\n- Both have jobs - care of house and children",
+    "response": "Both have jobs - care of house and children"
+  },
+  {
+    "id": 48,
+    "prompt": "Question: Think of the changes that have taken place in your country since 1989  /  1991. Have those changes had a very good influence, a good influence, a bad influence or a very bad influence on the following? b. Family values\nOptions:\n- Very good influence\n- Good influence\n- Bad influence\n- Very bad influence\n- No influence (DO NOT READ)\n- DK/Refused",
+    "response": "Bad influence"
+  },
+  {
+    "id": 49,
+    "prompt": "Question: Do you personally believe that using contraceptives is morally acceptable, morally unacceptable, or is it not a moral issue? \nOptions:\n- Morally acceptable\n- Morally unacceptable\n- Not a moral issue\n- Depends on the situation (VOL)",
+    "response": "Not a moral issue"
+  },
+  {
+    "id": 50,
+    "prompt": "Question: In your opinion, in the public, are the conflicts very strong, strong, not very strong or are there not any conflicts between ____? c. People who are religious and people who are not religious\nOptions:\n- Very strong conflicts\n- Strong conflicts\n- Not very strong conflicts\n- There are not conflicts\n- DK/Refused",
+    "response": "Not very strong conflicts"
+  },
+  {
+    "id": 51,
+    "prompt": "Question: Do you think there is a natural conflict between being a devout Muslim and living in a modern society, or don't you think so?\nOptions:\n- Yes, there is conflict\n- No, there is not a conflict",
+    "response": "No, there is not a conflict"
+  },
+  {
+    "id": 52,
+    "prompt": "Question: All things considered, who has a better life in this country, men or women?\nOptions:\n- Men\n- Women\n- Same (DO NOT READ)\n- Same (VOL)\n- DK/Refused",
+    "response": "Men"
+  },
+  {
+    "id": 53,
+    "prompt": "Question: Over the past 20 years, do you think equality between men and women in your country has increased, decreased, or do you think there has been no change?\nOptions:\n- Increased\n- Decreased\n- No change\n- DK/Refused",
+    "response": "Increased"
+  },
+  {
+    "id": 54,
+    "prompt": "Question: Do you favor or oppose the following? The death penalty for people who leave the Muslim religion.\nOptions:\n- Favor\n- Oppose",
+    "response": "Oppose"
+  },
+  {
+    "id": 55,
+    "prompt": "Question: On a different subject, do you think women should have equal rights with men, or shouldn't they?\nOptions:\n- Should\n- Should not",
+    "response": "Should"
+  },
+  {
+    "id": 56,
+    "prompt": "Question: (Thinking about conditions in Egypt in recent years, what has concerned you most?) And what has concerned you second most about Egypt?...Lack of economic prosperity, Lack of democracy, Corruption, the potential for political instability, or the banning of religious parties?\nOptions:\n- Lack of economic prosperity\n- Lack of democracy\n- Corruption\n- The potential for political instability\n- The banning of religious parties\n- Other (VOL)",
+    "response": "Lack of economic prosperity"
+  },
+  {
+    "id": 57,
+    "prompt": "Question: What's more important in your country society that everyone be free to pursue their life's goals without interference from the state or that the state play an active role in society so as to guarantee that nobody is in need?\nOptions:\n- Freedom to pursue life's goals without interference\n- State/government guarantees nobody in need",
+    "response": "State/government guarantees nobody in need"
+  },
+  {
+    "id": 58,
+    "prompt": "Question: What is second most responsible for Nigeria's lack of prosperity?  Is it the policies of the U.S. and other western nations, the weakness of democracy in Nigeria, the lack of education in Nigeria, corruption in the Nigerian government, or conflict among ethnic and religious groups in Nigeria?\nOptions:\n- The policies of the U.S. and other western nations\n- The weakness of democracy in Nigeria\n- The lack of education in Nigeria\n- Corruption in the Nigerian government\n- Conflict among ethnic and religious groups in Nigeria\n- Other (VOL)",
+    "response": "Corruption in the Nigerian government"
+  },
+  {
+    "id": 59,
+    "prompt": "Question: Have the changes that have taken place in your country since 1991 had a very good influence, a good influence, a bad influence or a very bad influence on the following: Spiritual values?\nOptions:\n- Very good influence\n- Good influence\n- Bad influence\n- Very bad influence\n- No influence (VOL)",
+    "response": "Bad influence"
+  },
+  {
+    "id": 60,
+    "prompt": "Question: I am going to read you a list of things that the government might do to improve public health and health care in our country.  As I read each one, please tell me how much of a priority you think it should be for the (state or government)--one of the most important priorities, a very important priority, a lower priority, or not a priority at all?...Making sure women have access to good prenatal health care when they are pregnant\nOptions:\n- One of the most important priorities\n- A very important priority\n- A lower priority\n- Not a priority at all",
+    "response": "One of the most important priorities"
+  },
+  {
+    "id": 61,
+    "prompt": "Question: Which one of the following is the most important reason Islam is playing a greater role in politics these days?...Because of dissatisfaction with the current government, or because of growing immorality in our society, or because of concerns about Western influence in our country?\nOptions:\n- Because of dissatisfaction with the current government OR\n- Because of growing immorality in our society OR\n- Because of concerns about Western influence in our country",
+    "response": "Because of dissatisfaction with the current government"
+  },
+  {
+    "id": 62,
+    "prompt": "Question: And of the items you mentioned as very important, which is the most important for the U.S to do...build a strong relationship with China, be tough with China on economic and trade issues, promote human rights in China, advocate for more freedom for Tibet, or continue selling arms to Taiwan?\nOptions:\n- Build a strong relationship with China\n- Be tough with China on economic/trade issues\n- Promote human rights in China\n- Advocate for more freedom for Tibet\n- Continue selling arms to Taiwan\n- None",
+    "response": "Build a strong relationship with China"
+  },
+  {
+    "id": 63,
+    "prompt": "Question: Do you personally believe that sex between unmarried adults is morally acceptable, morally unacceptable, or is it not a moral issue? \nOptions:\n- Morally acceptable\n- Morally unacceptable\n- Not a moral issue\n- Depends on the situation (VOL)",
+    "response": "Morally acceptable"
+  },
+  {
+    "id": 64,
+    "prompt": "Question: Thinking about the ethnic, religious, and racial makeup of your country, over the past 20 years do you think your country has become more diverse, less diverse, or do you think there has been no change?\nOptions:\n- More diverse\n- Less diverse\n- No change\n- DK/Refused",
+    "response": "More diverse"
+  },
+  {
+    "id": 65,
+    "prompt": "Question: Please tell me what kind of influence the group is having on the way things are going in your country. Is the influence of religious leaders very good, somewhat good, somewhat bad or very bad in your country?\nOptions:\n- Very good\n- Somewhat good\n- Somewhat bad\n- Very bad",
+    "response": "Somewhat good"
+  },
+  {
+    "id": 66,
+    "prompt": "Question: Here is a list of things that may be problems in our country. As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem, or not a problem at all...moral decline.\nOptions:\n- Very big problem\n- Moderately big problem\n- Small problem\n- Not a problem at all",
+    "response": "Moderately big problem"
+  },
+  {
+    "id": 67,
+    "prompt": "Question: Which of the following worries you second most about Islamic identity in our country today?  It can lead to violence; it can lead to a loss of personal freedoms; it will prevent Muslims from integrating into our society.\nOptions:\n- It can lead to violence\n- It can lead to a loss of personal freedoms\n- It will prevent Muslims from integrating into our society",
+    "response": "It can lead to a loss of personal freedoms"
+  },
+  {
+    "id": 68,
+    "prompt": "Question: As I read some statements about the role of religion here and elsewhere, please tell me whether you completely agree, mostly agree, mostly disagree, or completely disagree...There should be restrictions on men and women being employed in same workplace\nOptions:\n- Completely agree\n- Mostly agree\n- Mostly disagree\n- Completely disagree",
+    "response": "Mostly disagree"
+  },
+  {
+    "id": 69,
+    "prompt": "Question: Which one of the following statements comes closest to your opinion about educating children?\nOptions:\n- It is more important for boys than for girls\n- It is more important for girls than for boys\n- It is equally important for boys and girls",
+    "response": "It is equally important for boys and girls"
+  },
+  {
+    "id": 70,
+    "prompt": "Question: Please tell me whether you completely agree, mostly agree, mostly disagree or completely disagree with the following statements...Success in life is pretty much determined by forces outside our control\nOptions:\n- Completely agree\n- Mostly agree\n- Mostly disagree\n- Completely disagree\n- DK/Refused",
+    "response": "Mostly disagree"
+  },
+  {
+    "id": 71,
+    "prompt": "Question: Which of these characteristics do you associate with Muslims?...Respectful of Women...Do you associate this with Muslims or not?\nOptions:\n- Yes\n- No",
+    "response": "Yes"
+  },
+  {
+    "id": 72,
+    "prompt": "Question: Compared to 20 years ago, do you think religion has a more important role in your country, a less important role, or do you think there has been no change?\nOptions:\n- A more important role\n- A less important role\n- No change\n- DK/Refused",
+    "response": "A less important role"
+  },
+  {
+    "id": 73,
+    "prompt": "Question: Do you think the European Union ____? c. promotes democratic values\nOptions:\n- Yes\n- No\n- DK/Refused",
+    "response": "Yes"
+  },
+  {
+    "id": 74,
+    "prompt": "Question: In general, do you think your country's parents put too much pressure on their children to do well in school, not enough pressure, or about the right amount of pressure?\nOptions:\n- Too much\n- Not enough\n- About the right amount",
+    "response": "About the right amount"
+  },
+  {
+    "id": 75,
+    "prompt": "Question: (Which of the following comes closer to your view?)...Our traditional way of life is getting lost. Our traditional way of life remains strong.\nOptions:\n- Our traditional way of life is getting lost\n- Our traditional way of life remains strong\n- DK/Refused",
+    "response": "Our traditional way of life is getting lost"
+  },
+  {
+    "id": 76,
+    "prompt": "Question: And finally, which comes closer to your view?  Consumerism and commercialism are a threat to our culture, OR consumerism and commercialism are not a threat to our culture.\nOptions:\n- Consumerism/commercialism a threat to culture\n- Consumerism/commercialism not a threat to culture",
+    "response": "Consumerism/commercialism a threat to culture"
+  },
+  {
+    "id": 77,
+    "prompt": "Question: As I read each one, please tell me if you think it is a very important, somewhat important, not too important, or not at all important reason why people in your country move to other countries. d. To reunite with family currently living in another country\nOptions:\n- Very important\n- Somewhat important\n- Not too important\n- Not at all important\n- DK/Refused",
+    "response": "Very important"
+  },
+  {
+    "id": 78,
+    "prompt": "Question: Do you favor or oppose giving the European Union more authority over the national budgets of member countries, even if it creates more limits on the powers of your country's government?\nOptions:\n- Favor\n- Oppose",
+    "response": "Oppose"
+  },
+  {
+    "id": 79,
+    "prompt": "Question: How important is it to you to live in a country where you can practice your religion freely?  Is it very important, somewhat important, not too important or not important at all?\nOptions:\n- Very important\n- Somewhat important\n- Not too important\n- Not important at all",
+    "response": "Very important"
+  },
+  {
+    "id": 80,
+    "prompt": "Question: Please tell me whether you completely agree, mostly agree, mostly disagree, or completely disagree with the following statements...Women should have the right to decide if they wear a veil\nOptions:\n- Completely agree\n- Mostly agree\n- Mostly disagree\n- Completely disagree",
+    "response": "Completely agree"
+  },
+  {
+    "id": 81,
+    "prompt": "Question: Do you personally believe that married people having an affair is morally acceptable, morally unacceptable, or is it not a moral issue? \nOptions:\n- Morally acceptable\n- Morally unacceptable\n- Not a moral issue\n- Depends on the situation (VOL)",
+    "response": "Morally unacceptable"
+  },
+  {
+    "id": 82,
+    "prompt": "Question: I am going to read you a list of things that the government might do to improve public health and health care in our country.  As I read each one, please tell me how much of a priority you think it should be for the (state or government)--one of the most important priorities, a very important priority, a lower priority, or not a priority at all?...Increasing the number of children who get immunized\nOptions:\n- One of the most important priorities\n- A very important priority\n- A lower priority\n- Not a priority at all",
+    "response": "One of the most important priorities"
+  },
+  {
+    "id": 83,
+    "prompt": "Question: When children today in your country grow up, do you think they will be better off or worse off financially than their parents? \nOptions:\n- Better off\n- Worse off\n- Same (VOL)\n- Same (DO NOT READ)\n- DK/Refused",
+    "response": "Worse off"
+  },
+  {
+    "id": 84,
+    "prompt": "Question: And thinking about U.S. policy toward China, how important do you think each of the following is,very important, somewhat important, not too important, or not at all important?...advocate for more freedom for Tibet\nOptions:\n- Very important\n- Somewhat important\n- Not too important\n- Not at all important\n- Should not be done (VOL)",
+    "response": "Somewhat important"
+  },
+  {
+    "id": 85,
+    "prompt": "Question: Some say that most people who don't succeed in life fail because of society's failures. Others say that most people who don't succeed do so because of their own individual failures.  Which comes closer to your point of view?\nOptions:\n- Society's failures\n- Individual failures",
+    "response": "Individual failures"
+  },
+  {
+    "id": 86,
+    "prompt": "Question: Which statement comes closer to your own views, even if neither is exactly right? Most people can succeed if they are willing to work hard OR Hard work is no guarantee of success for most people.\nOptions:\n- Most people can succeed if they are willing to work hard\n- Hard work is no guarantee of success for most people\n- Neither/Both equally (VOL)\n- If (survey country) had cooperated more with other countries, the number of coronavirus cases would have been lower in this country\n- Many of the problems facing our country can be solved by working with other countries\n- No amount of cooperation between (survey country) and other countries would have reduced the number of coronavirus cases in this country\n- Few of the problems facing our country can be solved by working with other countries\n- DK/Refused\n- When dealing with major international issues, our country should take into account the interests of other countries, even if it means making compromises with them\n- When dealing with major international issues, our country should follow its own interests, even when other countries strongly disagree",
+    "response": "Most people can succeed if they are willing to work hard"
+  },
+  {
+    "id": 87,
+    "prompt": "Question: Thinking about your country's future, how important is it that: f. religious parties are allowed to be part of the government? Is it very important, somewhat important, not too important or not important at all?\nOptions:\n- Very important\n- Somewhat important\n- Not too important\n- Not important at all",
+    "response": "Not important at all"
+  },
+  {
+    "id": 88,
+    "prompt": "Question: What is more to blame for this controversy (about the publication of cartoons with the image of the prophet Muhammad), Western nations' disrespect for the Islamic religion, or Muslims' intolerance to different points of view?\nOptions:\n- Western nations' disrespect for the Islamic religion\n- Muslims' intolerance to different points of view\n- Both (VOL)\n- Neither (VOL)",
+    "response": "Both (VOL)"
+  },
+  {
+    "id": 89,
+    "prompt": "Question: When children today in your country grow up, do you think each of the following things will be much better than it is today in our country, somewhat better, about the same, somewhat worse or much worse? c. health care\nOptions:\n- Much better\n- Somewhat better\n- About the same\n- Somewhat worse\n- Much worse\n- DK/Refused",
+    "response": "Somewhat better"
+  },
+  {
+    "id": 90,
+    "prompt": "Question: Thinking about the future of your country, please tell me whether you feel generally optimistic or generally pessimistic about the following areas. a. Our country's culture\nOptions:\n- Optimistic\n- Pessimistic\n- Neither (DO NOT READ)\n- DK/Refused",
+    "response": "Optimistic"
+  },
+  {
+    "id": 91,
+    "prompt": "Question: For each statement, please tell me whether you completely agree with it, mostly agree with it, mostly disagree with it or completely disagree with it...It is a good thing for any society to be made up of people from different races, religions,cultures\nOptions:\n- Completely agree\n- Mostly agree\n- Mostly disagree\n- Completely disagree",
+    "response": "Mostly agree"
+  },
+  {
+    "id": 92,
+    "prompt": "Question: For each of the following issues, how likely are you personally to take political action on it, such as contact an elected official or participate in a demonstration? g. freedom of speech\nOptions:\n- Very likely\n- Somewhat likely\n- Not too likely\n- Not at all likely\n- DK/Refused",
+    "response": "Somewhat likely"
+  },
+  {
+    "id": 93,
+    "prompt": "Question: When children today in your country grow up, do you think each of the following things will be much better than it is today in our country, somewhat better, about the same, somewhat worse or much worse? a. education\nOptions:\n- Much better\n- Somewhat better\n- About the same\n- Somewhat worse\n- Much worse\n- DK/Refused",
+    "response": "Somewhat better"
+  },
+  {
+    "id": 94,
+    "prompt": "Question: As I read from a list, tell me whether or not you think this is an important factor in Europe and the U.S. growing further apart?...Europeans and Americans have increasingly different social and cultural values these days\nOptions:\n- Important factor in growing apart\n- Not important factor in growing apart",
+    "response": "Important factor in growing apart"
+  },
+  {
+    "id": 95,
+    "prompt": "Question: Some countries have decided to ban the wearing of head scarves by Muslim women in public places including schools. Do you think this is a good idea or a bad idea?\nOptions:\n- Good idea\n- Bad idea",
+    "response": "Bad idea"
+  },
+  {
+    "id": 96,
+    "prompt": "Question: Do you favor or oppose making the following the law in your country...death penalty for people who leave the Muslim religion?\nOptions:\n- Favor\n- Oppose",
+    "response": "Oppose"
+  },
+  {
+    "id": 97,
+    "prompt": "Question: Now I am going to read you a list of things that may be problems in our country.  As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem or not a problem at all...Conflict between (ethnic/racial/nationality/religious/tribal) groups\nOptions:\n- Very big problem\n- Moderately big problem\n- Small problem\n- Not a problem at all",
+    "response": "Moderately big problem"
+  },
+  {
+    "id": 98,
+    "prompt": "Question: The government is considering a ban on Muslim women wearing full veils that cover all of the face except the eyes in public places including schools, hospitals, and government offices. Do you approve or disapprove of such a ban?\nOptions:\n- Approve\n- Disapprove",
+    "response": "Disapprove"
+  },
+  {
+    "id": 99,
+    "prompt": "Question: Thinking about conditions in Egypt in recent years, what has concerned you most?...Lack of economic prosperity, Lack of democracy, Corruption, the potential for political instability, or the banning of religious parties?\nOptions:\n- Lack of economic prosperity\n- Lack of democracy\n- Corruption\n- The potential for political instability\n- The banning of religious parties\n- Other (VOL)",
+    "response": "Lack of economic prosperity"
+  },
+  {
+    "id": 100,
+    "prompt": "Question: Do you favor or oppose making the following the law in your country...segregation of men and women in the workplace?\nOptions:\n- Favor\n- Oppose",
+    "response": "Oppose"
+  },
+  {
+    "id": 101,
+    "prompt": "Question: When children today in your country grow up, do you think each of the following things will be much better than it is today in our country, somewhat better, about the same, somewhat worse or much worse? e. terrorism\nOptions:\n- Much better\n- Somewhat better\n- About the same\n- Somewhat worse\n- Much worse\n- DK/Refused",
+    "response": "Somewhat worse"
+  },
+  {
+    "id": 102,
+    "prompt": "Question: As I read another list of statements, for each one, please tell me whether you completely agree, mostly agree, mostly disagree or completely disagree with it...Our people are not perfect, but our culture is superior to others.\nOptions:\n- Completely agree\n- Mostly agree\n- Mostly disagree\n- Completely disagree",
+    "response": "Completely disagree"
+  },
+  {
+    "id": 103,
+    "prompt": "Question: Regardless of how you feel about the riots, were you sympathetic to the youths from immigrant and working class suburbs in France who felt frustrated by their place in French society, or not?\nOptions:\n- Yes, sympathetic\n- No, not sympathetic",
+    "response": "Yes, sympathetic"
+  },
+  {
+    "id": 104,
+    "prompt": "Question: Overall, do you think the current government is doing too much, too little, or the right amount to ensure that Copts and other religious minorities can practice their religion freely? \nOptions:\n- Too much\n- Too little\n- Right amount",
+    "response": "Too little"
+  },
+  {
+    "id": 105,
+    "prompt": "Question: I am going to read you a list of things that might be important for getting ahead in life. On a scale of 0 to 10, in your opinion, how important is it...to belong to a wealthy family to get ahead in life, where 0 means not important at all and 10 means very important?\nOptions:\n- Not important at all\n- 1.0\n- Very important\n- 2.0\n- 3.0\n- 4.0\n- 5.0\n- 6.0\n- 7.0\n- 8.0\n- 9.0",
+    "response": "3.0"
+  },
+  {
+    "id": 106,
+    "prompt": "Question: Which of these two statements comes closer to your own views, even if neither is exactly right...your country has made most of the changes needed to give women equal rights with men or, your country needs to continue making changes to give women equal rights with men?\nOptions:\n- (Survey country) has made most of the changes needed to give women equal rights with men, OR\n- (Survey country) needs to continue making changes to give women equal rights with men.\n- (Survey country) should deal with its own problems and let other countries deal with their own problems as best they can [OR]\n- If (survey country) had cooperated more with other countries, the number of coronavirus cases would have been lower in this country\n- Many of the problems facing our country can be solved by working with other countries\n- (Survey country) should help other countries deal with their problems\n- No amount of cooperation between (survey country) and other countries would have reduced the number of coronavirus cases in this country\n- Few of the problems facing our country can be solved by working with other countries\n- Neither (VOL)\n- DK/Refused\n- Both (VOL)\n- When dealing with major international issues, our country should take into account the interests of other countries, even if it means making compromises with them\n- When dealing with major international issues, our country should follow its own interests, even when other countries strongly disagree",
+    "response": "( Survey country) needs to continue making changes to give women equal rights with men."
+  },
+  {
+    "id": 107,
+    "prompt": "Question: Do you favor or oppose the following? Giving Muslim leaders and religious judges the power to decide family and property disputes.\nOptions:\n- Favor\n- Oppose",
+    "response": "Oppose"
+  },
+  {
+    "id": 108,
+    "prompt": "Question: In a family, when it comes to making important decisions about ____, do you think …? c. Their family's religious practices\nOptions:\n- Men generally have more influence\n- Women generally have more influence\n- Men and women generally have about the same influence\n- DK/Refused",
+    "response": "Men and women generally have about the same influence"
+  },
+  {
+    "id": 109,
+    "prompt": "Question: Do you personally believe that having an abortion is morally acceptable, morally unacceptable, or is it not a moral issue? \nOptions:\n- Morally acceptable\n- Morally unacceptable\n- Not a moral issue\n- Depends on the situation (VOL)",
+    "response": "Depends on the situation (VOL)"
+  },
+  {
+    "id": 110,
+    "prompt": "Question: Do you think there is a natural conflict between being a devout Christian and living in a modern society, or don't you think so?\nOptions:\n- Yes, there is conflict\n- No, there is not a conflict",
+    "response": "No, there is not a conflict"
+  },
+  {
+    "id": 111,
+    "prompt": "Question: For each of the following issues, how likely are you personally to take political action on it, such as contact an elected official or participate in a demonstration? e. discrimination against (ethnic/religious/racial) groups\nOptions:\n- Very likely\n- Somewhat likely\n- Not too likely\n- Not at all likely\n- DK/Refused",
+    "response": "Somewhat likely"
+  },
+  {
+    "id": 112,
+    "prompt": "Question: Over the past 20 years, do you think family ties in your country have become stronger, weaker, or do you think there has been no change?\nOptions:\n- Stronger\n- Weaker\n- No change\n- DK/Refused",
+    "response": "Weaker"
+  },
+  {
+    "id": 113,
+    "prompt": "Question: Which one of the following statements comes closest to your opinion about men and women as political leaders?...Men generally make better political leaders than women, or Women generally make better political leaders than men, or In general, women and men make equally good political leaders?\nOptions:\n- Men generally make better political leaders than women\n- Women generally make better political leaders than men\n- In general, women and men make equally good political leaders",
+    "response": "In general, women and men make equally good political leaders"
+  },
+  {
+    "id": 114,
+    "prompt": "Question: Overall, do you think religious minorities will have more rights, fewer rights, or about the same rights under the Freedom and Justice Party-led government as they had in the past?\nOptions:\n- More rights\n- Fewer rights\n- About the same",
+    "response": "Fewer rights"
+  },
+  {
+    "id": 115,
+    "prompt": "Question: When children today in the public grow up, do you think they will be better off or worse off financially than their parents?\nOptions:\n- Better off\n- Worse off\n- Same (DO NOT READ)\n- DK/Refused",
+    "response": "Worse off"
+  },
+  {
+    "id": 116,
+    "prompt": "Question: Here is a list of several statements about the role of religion here and elsewhere. For each statement, please tell me whether you completely agree, mostly agree, mostly disagree, or completely disagree with the statement...Our schools should focus more on practical subjects and less on religious education.\nOptions:\n- Completely agree\n- Mostly agree\n- Mostly disagree\n- Completely disagree",
+    "response": "Mostly agree"
+  },
+  {
+    "id": 117,
+    "prompt": "Question: What kind of influence is ____ having on the way things are going in your country? Is the influence very good, somewhat good, somewhat bad or very bad in your country? e. religious leaders\nOptions:\n- Very good\n- Somewhat good\n- Somewhat bad\n- Very bad\n- DK/Refused",
+    "response": "Somewhat good"
+  },
+  {
+    "id": 118,
+    "prompt": "Question: Regarding the role of religion in government in our country, which do you think is the better model for Egypt - to become a society more like Turkey today or more like Saudi Arabia today?\nOptions:\n- Turkey\n- Saudi Arabia\n- Neither (VOL)",
+    "response": "Turkey"
+  },
+  {
+    "id": 119,
+    "prompt": "Question: Please tell me whether you completely agree, mostly agree, mostly disagree, or completely disagree with the following statements...Women should be able to work outside the home\nOptions:\n- Completely agree\n- Mostly agree\n- Mostly disagree\n- Completely disagree",
+    "response": "Completely agree"
+  },
+  {
+    "id": 120,
+    "prompt": "Question: I'm going to read you a list of issues that human rights organizations in your country might work on. As I read each one, please tell me how much of a priority you think it should be for these organizations - a top priority, important but lower priority, not too important or should human rights organizations in your country not work on this issue. \na. protecting the rights of religious minorities\nOptions:\n- Top priority\n- Important but lower priority\n- Not too important\n- Should not work on this issue\n- DK/Refused",
+    "response": "Top priority"
+  },
+  {
+    "id": 121,
+    "prompt": "Question: Now I’d like to ask you about your preference – what kind of marriage do you think is the more satisfying way of life?\nOptions:\n- One where the husband provides for the family and the wife takes care of the house and children\n- One where the husband and wife both have jobs and together take care of the house and children\n- One where the wife provides for the family and the husband takes care of the house and children (DO NOT READ)\n- Other (DO NOT READ)\n- Neither (DO NOT READ)\n- DK/Refused",
+    "response": "One where the husband and wife both have jobs and together take care of the house and children"
+  },
+  {
+    "id": 122,
+    "prompt": "Question: I'm going to read you a list of issues that human rights organizations in your country might work on. As I read each one, please tell me how much of a priority you think it should be for these organizations - a top priority, important but lower priority, not too important or should human rights organizations in your country not work on this issue. \nc. guaranteeing that women have the same rights as men\nOptions:\n- Top priority\n- Important but lower priority\n- Not too important\n- Should not work on this issue\n- DK/Refused",
+    "response": "Top priority"
+  },
+  {
+    "id": 123,
+    "prompt": "Question: Please tell me whether you completely agree, mostly agree, mostly disagree or completely disagree with the following statements...Children need to learn English to succeed in the world today\nOptions:\n- Completely agree\n- Mostly agree\n- Mostly disagree\n- Completely disagree",
+    "response": "Mostly agree"
+  },
+  {
+    "id": 124,
+    "prompt": "Question: Please tell me how worried you are about each of the following issues related to Muslims living in your country...decline in importance of religion among your country's Muslims...Are you very worried, somewhat worried, not too worried, or not at all worried about decline in importance of religion?\nOptions:\n- Very worried\n- Somewhat worried\n- Not too worried\n- Not at all worried",
+    "response": "Not at all worried"
+  },
+  {
+    "id": 125,
+    "prompt": "Question: (What kind of influence the group is having on the way things are going in your country.) Is the influence of...religious leaders very good, somewhat good, somewhat bad or very bad in your country?\nOptions:\n- Very good\n- Somewhat good\n- Somewhat bad\n- Very bad\n- DK/Refused",
+    "response": "Somewhat good"
+  },
+  {
+    "id": 126,
+    "prompt": "Question: In a family, when it comes to making important decisions about ____, do you think …? b. How to raise children\nOptions:\n- Men generally have more influence\n- Women generally have more influence\n- Men and women generally have about the same influence\n- DK/Refused",
+    "response": "Men and women generally have about the same influence"
+  },
+  {
+    "id": 127,
+    "prompt": "Question: I'm going to read a list of some changes that have taken place. Please tell me if you think each one has been a change for the better, a change for the worse, or hasn't it made much of a difference: family planning\nOptions:\n- Change for the better\n- Change for the worse\n- Not much difference",
+    "response": "Change for the better"
+  },
+  {
+    "id": 128,
+    "prompt": "Question: How important is it to have ____ in our country? Is it very important, somewhat important, not too important or not important at all? a. people can practice their religion freely\nOptions:\n- Very important\n- Somewhat important\n- Not too important\n- Not important at all\n- DK/Refused",
+    "response": "Very important"
+  },
+  {
+    "id": 129,
+    "prompt": "Question: In your opinion, how much influence should religious leaders have in political matters...A large influence, some influence, not too much influence or no influence at all? \nOptions:\n- A large influence\n- Some influence\n- Not too much influence\n- No influence at all",
+    "response": "No influence at all"
+  },
+  {
+    "id": 130,
+    "prompt": "Question: Thinking about conditions in our country today, for each of the following please tell me whether it is getting better, worse, or staying about the same, compared with the past?...Morality\nOptions:\n- Better\n- Worse\n- About the same",
+    "response": "Worse"
+  },
+  {
+    "id": 131,
+    "prompt": "Question: And which one of these comes closer to your opinion? Homosexuality should be accepted by society OR Homosexuality should not be accepted by society\nOptions:\n- Homosexuality should be accepted by society\n- Homosexuality should not be accepted by society\n- DK/Refused",
+    "response": "Homosexuality should be accepted by society"
+  },
+  {
+    "id": 132,
+    "prompt": "Question: Do you think people should be able to say these types of things publically OR the government should be able to prevent people from saying these things in some circumstances. c. statements that are offensive to your religion or beliefs\nOptions:\n- People should be able to say these things publically\n- Government should be able to prevent people from saying these things\n- DK/Refused",
+    "response": "People should be able to say these things publically"
+  },
+  {
+    "id": 133,
+    "prompt": "Question: Which one of these comes closest to your opinion, number 1 or number 2?...#1 - It is not necessary to believe in God in order to be moral and have good values or #2 - It is necessary to believe in God in order to be moral and have good values\nOptions:\n- Not necessary to believe in God to be moral/have good values\n- Necessary to believe in God to be moral/have good values",
+    "response": "Not necessary to believe in God to be moral/have good values"
+  },
+  {
+    "id": 134,
+    "prompt": "Question: Please tell me whether you completely agree, mostly agree, mostly disagree or completely disagree with the following statements...Most people in this society are trustworthy\nOptions:\n- Completely agree\n- Mostly agree\n- Mostly disagree\n- Completely disagree",
+    "response": "Mostly agree"
+  },
+  {
+    "id": 135,
+    "prompt": "Question: Please tell me how worried you are about each of the following issues related to Muslims living in your country...Muslim women taking modern roles in society...Are you very worried, somewhat worried, not too worried, or not at all worried about Muslim women taking modern roles in society?\nOptions:\n- Very worried\n- Somewhat worried\n- Not too worried\n- Not at all worried",
+    "response": "Not at all worried"
+  },
+  {
+    "id": 136,
+    "prompt": "Question: Some people say the following things are important to them. On a scale of 0 to 10, how important is each thing to you personally, where 0 means not important at all and 10 means very important….To have a good education for your children?\nOptions:\n- Not important at all\n- 1.0\n- 2.0\n- 3.0\n- 4.0\n- 5.0\n- 6.0\n- 7.0\n- 8.0\n- 9.0\n- Very important",
+    "response": "Very important"
+  },
+  {
+    "id": 137,
+    "prompt": "Question: When there are differences between the US and European countries, do you think these differences occur because the US has different values than Europe or because the US has different policies than Europe?\nOptions:\n- Different Values\n- Different Policies",
+    "response": "Different Values"
+  },
+  {
+    "id": 138,
+    "prompt": "Question: When children today in your country grow up, do you think each of the following things will be much better than it is today in our country, somewhat better, about the same, somewhat worse or much worse? b. poverty\nOptions:\n- Much better\n- Somewhat better\n- About the same\n- Somewhat worse\n- Much worse\n- DK/Refused",
+    "response": "Somewhat worse"
+  },
+  {
+    "id": 139,
+    "prompt": "Question: Do you think relations between [IN ISRAEL: Israel; IN PALESTINIAN TERRITORIES: the Palestinian Authority] and the United States today are very good, somewhat good, somewhat bad or very bad?\nOptions:\n- Very good\n- Somewhat good\n- Somewhat bad\n- Very bad",
+    "response": "Somewhat good"
+  },
+  {
+    "id": 140,
+    "prompt": "Question: When children today in your country grow up, do you think each of the following things will be much better than it is today in our country, somewhat better, about the same, somewhat worse or much worse? d. government corruption\nOptions:\n- Much better\n- Somewhat better\n- About the same\n- Somewhat worse\n- Much worse\n- DK/Refused",
+    "response": "Somewhat worse"
+  },
+  {
+    "id": 141,
+    "prompt": "Question: Aside from weddings and funerals how often do you attend religious services... more than once a week, once a week, once or twice a month, a few times a year, seldom, or never?\nOptions:\n- More than once a week\n- Once a week\n- Once or twice a month\n- A few times a year\n- Seldom\n- Never",
+    "response": "Once a week"
+  },
+  {
+    "id": 142,
+    "prompt": "Question: Please tell me how important each of the following is in a democracy to you...Women have the same rights as men?\nOptions:\n- Very important\n- Somewhat important\n- Not too important\n- Not important at all",
+    "response": "Very important"
+  },
+  {
+    "id": 143,
+    "prompt": "Question: Please tell me whether you completely agree, mostly agree or completely disagree with the following statements: Children need to learn a second language to succeed in the world today\nOptions:\n- Completely agree\n- Mostly agree\n- Mostly disagree\n- Completely disagree",
+    "response": "Mostly agree"
+  },
+  {
+    "id": 144,
+    "prompt": "Question: In your opinion, are average people benefiting or not benefiting from Nigeria's oil wealth?\nOptions:\n- Are benefiting\n- Are not benefiting",
+    "response": "Are not benefiting"
+  },
+  {
+    "id": 145,
+    "prompt": "Question: Think of the changes that have taken place in your country since 1989 /  1991. Have those changes had a very good influence, a good influence, a bad influence or a very bad influence on the following? c. Spiritual values\nOptions:\n- Very good influence\n- Good influence\n- Bad influence\n- Very bad influence\n- No influence (DO NOT READ)\n- DK/Refused",
+    "response": "Bad influence"
+  },
+  {
+    "id": 146,
+    "prompt": "Question: When children today in your country grow up, do you think each of the following things will be much better than it is today in our country, somewhat better, about the same, somewhat worse or much worse? f. equal rights for men and women\nOptions:\n- Much better\n- Somewhat better\n- About the same\n- Somewhat worse\n- Much worse\n- DK/Refused",
+    "response": "Somewhat better"
+  },
+  {
+    "id": 147,
+    "prompt": "Question: Have the changes that have taken place in your country since 1991 had a very good influence, a good influence, a bad influence or a very bad influence on the following: Public morality?\nOptions:\n- Very good influence\n- Good influence\n- Bad influence\n- Very bad influence\n- No influence (VOL)",
+    "response": "Very bad influence"
+  },
+  {
+    "id": 148,
+    "prompt": "Question: Which of the following statements comes closest to your opinion? It is not necessary to believe in God in order to be moral and have good values OR It is necessary to believe in God in order to be moral and have good values?\nOptions:\n- It is not necessary to believe in God in order to be moral and have good values\n- It is necessary to believe in God in order to be moral and have good values\n- DK/Refused",
+    "response": "It is not necessary to believe in God in order to be moral and have good values"
+  },
+  {
+    "id": 149,
+    "prompt": "Question: I am going to list some different political and social actions that people can take. Have you done this ...  e. participated in a political, charitable or religious-based volunteer organization\nOptions:\n- Have done in the past year\n- Have done in the more distant past\n- Have not done, but might do\n- Have not done and would never do\n- DK/Refused",
+    "response": "Have done in the past year"
+  },
+  {
+    "id": 150,
+    "prompt": "Question: Have the changes that have taken place in your country since 1991 had a very good influence, a good influence, a bad influence or a very bad influence on the following: Family values?\nOptions:\n- Very good influence\n- Good influence\n- Bad influence\n- Very bad influence\n- No influence (VOL)",
+    "response": "Bad influence"
+  },
+  {
+    "id": 151,
+    "prompt": "Question: In a family, when it comes to making important decisions about ____, do you think …? a. Household finances\nOptions:\n- Men generally have more influence\n- Women generally have more influence\n- Men and women generally have about the same influence\n- DK/Refused",
+    "response": "Men and women generally have about the same influence"
+  },
+  {
+    "id": 152,
+    "prompt": "Question: How much, if anything, have you heard about...Tensions between Japan and South Korea over the issue of \"comfort women\" during World War II? A lot, a little or nothing at all? \nOptions:\n- A lot\n- A little\n- Nothing at all",
+    "response": "A little"
+  },
+  {
+    "id": 153,
+    "prompt": "Question: I'm going to read a list of some changes that have taken place. Please tell me if you think each one has been a change for the better, a change for the worse, or hasn't it made much of a difference: birth control or family planning.\nOptions:\n- Change for the better\n- Change for the worse\n- Not much difference",
+    "response": "Change for the better"
+  },
+  {
+    "id": 154,
+    "prompt": "Question: And as a result of the coronavirus outbreak, has each of the following aspects become stronger, weaker, or not changed much? b. The religious faith of people in this country\nOptions:\n- Stronger\n- Weaker\n- Has not changed much\n- DK/Refused",
+    "response": "Has not changed much"
+  },
+  {
+    "id": 155,
+    "prompt": "Question: Please tell us if you strongly agree, agree, disagree, or strongly disagree with the following statements:\n\nA man who cannot father children is not a real man\nOptions:\n- Strongly agree\n- Agree\n- Disagree\n- Strongly disagree\n- Don't know\n- No answer/refused\n- Missing; Not applicable for other reasons",
+    "response": "Strongly disagree"
+  },
+  {
+    "id": 156,
+    "prompt": "Question: For each of the following statements I read out, can you tell me how much you agree with each. Do you agree strongly, agree, disagree, or disagree strongly?\n\nWhen a mother works for pay, the children suffer\nOptions:\n- Agree strongly\n- Agree\n- Disagree\n- Strongly disagree\n- Don't know\n- No answer\n- Other missing; Multiple answers Mail (EVS)",
+    "response": "Disagree"
+  },
+  {
+    "id": 157,
+    "prompt": "Question: Please tell us if you strongly agree, agree, disagree, or strongly disagree with the following statements:\n\nA woman should tolerate violence to keep the family together\nOptions:\n- Strongly agree\n- Agree\n- Disagree\n- Strongly disagree\n- Don't know\n- No answer/refused\n- Missing; Not applicable for other reasons",
+    "response": "Strongly disagree"
+  },
+  {
+    "id": 158,
+    "prompt": "Question: Can you tell me how strongly you agree or disagree with the following statement:\n\nOn the whole, women are less corrupt than men\nOptions:\n- Hard to say\n- Strongly agree\n- Agree\n- Disagree\n- Strongly disagree\n- Don't know\n- No answer\n- Missing; Not available",
+    "response": "Disagree"
+  },
+  {
+    "id": 159,
+    "prompt": "Question: I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?:\n\nFamily Compensation Funds\nOptions:\n- A great deal\n- Quite a lot\n- Not very much\n- None at all",
+    "response": "Not very much"
+  },
+  {
+    "id": 160,
+    "prompt": "Question: How have your perceptions about social values, norms, stereotypes changed from the experience of Hurricane Maria?\nOptions:\n- A lot\n- Fairly\n- Little\n- Nothing\n- No answer",
+    "response": "Little"
+  },
+  {
+    "id": 161,
+    "prompt": "Question: Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five.\n\nFeeling of responsibility\nOptions:\n- Important\n- Not mentioned\n- Don't know\n- No answer\n- Other missing; Multiple answers Mail (EVS)",
+    "response": "Important"
+  },
+  {
+    "id": 162,
+    "prompt": "Question: Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card.\n\nSex before marriage\nOptions:\n- Never justifiable\n- 2\n- 3\n- 4\n- 5\n- 6\n- 7\n- 8\n- 9\n- Always justifiable\n- Don't know\n- No answer\n- Missing; Not available",
+    "response": "3"
+  },
+  {
+    "id": 163,
+    "prompt": "Question: Do you agree, disagree or neither agree nor disagree with the following statements?\n\nWhen jobs are scarce, men should have more right to a job than women\nOptions:\n- Agree\n- Disagree\n- Neither agree nor disagree\n- Don't know\n- No answer\n- Other missing; Multiple answers Mail (EVS)",
+    "response": "Disagree"
+  },
+  {
+    "id": 164,
+    "prompt": "Question: Now I am going to read out a list of voluntary organizations; for each one, could you tell me whether you are a member, an active member, an inactive member or not a member of that type of organization?\n\nWomen’s group\nOptions:\n- Don't belong\n- Inactive member\n- Active member\n- Don't know\n- No answer\n- Missing; Not available",
+    "response": "Don't belong"
+  },
+  {
+    "id": 165,
+    "prompt": "Question: How easy is modern contraceptives use to access for women in your community?\nOptions:\n- Very easy\n- Quite easy\n- Not very easy\n- Not at all easy\n- Don't know\n- No answer/Refused\n- Missing; Not applicable for other reasons",
+    "response": "Quite easy"
+  },
+  {
+    "id": 166,
+    "prompt": "Question: Please tell us if you strongly agree, agree, disagree, or strongly disagree with the following statements:\n\nGainful employment is good but home and children is what most women really want\nOptions:\n- Strongly agree\n- Agree\n- Disagree\n- Strongly disagree\n- Don't know\n- No answer/refused",
+    "response": "Strongly disagree"
+  },
+  {
+    "id": 167,
+    "prompt": "Question: On this card are three basic kinds of attitudes concerning the society we live in. Please choose the one which best describes your own opinion.\nOptions:\n- The entire way our society is organized must be radically changed by revolutionary action\n- Our society must be gradually improved by reforms\n- Our present society must be valiantly defended against all subversive forces\n- Don't know\n- No answer\n- Missing; Not available",
+    "response": "Our society must be gradually improved by reforms"
+  },
+  {
+    "id": 168,
+    "prompt": "Question: Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five.\n\nTolerance and respect for other people\nOptions:\n- Important\n- Not mentioned\n- Don't know\n- No answer\n- Other missing; Multiple answers Mail (EVS)",
+    "response": "Important"
+  },
+  {
+    "id": 169,
+    "prompt": "Question: How frequently do the following things occur in your neighborhood?\n\nMen and boys hurting women and girls\nOptions:\n- Very frequently\n- Quite frequently\n- Not frequently\n- Not at all frequently\n- Don't know\n- No answer/refused\n- Missing; Not applicable for other reasons",
+    "response": "Not frequently"
+  },
+  {
+    "id": 170,
+    "prompt": "Question: Please tell us if you strongly agree, agree, disagree, or strongly disagree with the following statements:\n\nIt is important for girls to continue their schooling even if they become pregnant and have children\nOptions:\n- Strongly agree\n- Agree\n- Disagree\n- Strongly disagree\n- Don't know\n- No answer/refused\n- Missing; Not applicable for other reasons",
+    "response": "Strongly agree"
+  },
+  {
+    "id": 171,
+    "prompt": "Question: Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five.\n\nObedience\nOptions:\n- Important\n- Not mentioned\n- Don't know\n- No answer\n- Other missing; Multiple answers Mail (EVS)",
+    "response": "Important"
+  },
+  {
+    "id": 172,
+    "prompt": "Question: Please tell us if you strongly agree, agree, disagree, or strongly disagree with the following statements:\n\nMen, not women, should really be the ones to bring money, to provide for the family\nOptions:\n- Strongly agree\n- Agree\n- Disagree\n- Strongly disagree\n- Don't know\n- No answer/refused",
+    "response": "Disagree"
+  },
+  {
+    "id": 173,
+    "prompt": "Question: Please tell us if you strongly agree, agree, disagree, or strongly disagree with the following statements:\n\nA girl should wait to have children until she is at least 18 years old, even if she is married\nOptions:\n- Strongly agree\n- Agree\n- Disagree\n- Strongly disagree\n- Don't know\n- No answer/refused\n- Missing; Not applicable for other reasons",
+    "response": "Strongly disagree"
+  },
+  {
+    "id": 174,
+    "prompt": "Question: Please tell us if you strongly agree, agree, disagree, or strongly disagree with the following statements:\n\nOn the whole, family life suffers when women works full time\nOptions:\n- Strongly agree\n- Agree\n- Disagree\n- Strongly disagree\n- Don't know\n- No answer/refused\n- Missing; Not applicable for other reasons",
+    "response": "Disagree"
+  },
+  {
+    "id": 175,
+    "prompt": "Question: How frequently do the following things occur in your neighborhood?\n\nWomen and girls trading sex for money\nOptions:\n- Very frequently\n- Quite frequently\n- Not frequently\n- Not at all frequently\n- Don't know\n- No answer/refused\n- Missing; Not applicable for other reasons",
+    "response": "Not at all frequently"
+  },
+  {
+    "id": 176,
+    "prompt": "Question: Please tell us if you strongly agree, agree, disagree, or strongly disagree with the following statements:\n\nIt is a man’s duty to exercise guardianship over his female relatives\nOptions:\n- Strongly agree\n- Agree\n- Disagree\n- Strongly disagree\n- Don't know\n- No answer/refused\n- Missing; Not applicable for other reasons",
+    "response": "Strongly disagree"
+  },
+  {
+    "id": 177,
+    "prompt": "Question: Please tell us if you strongly agree, agree, disagree, or strongly disagree with the following statements:\n\nThe only acceptable religion is my religion\nOptions:\n- Strongly agree\n- Agree\n- Disagree\n- Strongly disagree\n- Don't know\n- No answer\n- Missing; Not available; Not applicable",
+    "response": "Strongly disagree"
+  },
+  {
+    "id": 178,
+    "prompt": "Question: In your view, how often do the following things occur in this country’s elections?:\n\nWomen have equal opportunities to run the office\nOptions:\n- Very often\n- Fairly often\n- Not often\n- Not at all often\n- Don't know\n- No answer\n- Missing; Not available",
+    "response": "Fairly often"
+  },
+  {
+    "id": 179,
+    "prompt": "Question: Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card.\n\nHomosexuality\nOptions:\n- Never justifiable\n- 2\n- 3\n- 4\n- 5\n- 6\n- 7\n- 8\n- 9\n- Always justifiable\n- Don't know\n- No answer\n- Other missing; Multiple answers Mail (EVS)",
+    "response": "Always justifiable"
+  },
+  {
+    "id": 180,
+    "prompt": "Question: Too much trust, too much confidence, or too little trust, or you never trust it, to what extent do you trust the following institutions? Do you trust \"religious institutions\"? To the researcher: You ask the listed items in the same way.\nOptions:\n- A great deal\n- Quite a lot\n- Not very much\n- None at all\n- Don't know\n- No answer",
+    "response": "Not very much"
+  },
+  {
+    "id": 181,
+    "prompt": "Question: I am now going to read out a few statements, and I would like you to think about the role of men and women in the community where you live. In general, who usually decides about the following things. 1 means that men usually decide and 9 means women that women usually decide – 5 means that men and women decide equally. (\nOptions:\n- Strongly agree\n- Agree\n- Disagree\n- Strongly disagree\n- Don't know\n- No answer/refused\n- Missing; Not applicable for other reasons",
+    "response": "Missing; Not applicable for other reasons"
+  },
+  {
+    "id": 182,
+    "prompt": "Question: Please tell us if you strongly agree, agree, disagree, or strongly disagree with the following statements:\n\nA girl should honor the decisions/wishes of her family even if she does not want to marry\nOptions:\n- Strongly agree\n- Agree\n- Disagree\n- Strongly disagree\n- Don't know\n- No answer/refused",
+    "response": "Strongly disagree"
+  },
+  {
+    "id": 183,
+    "prompt": "Question: For each of the following statements I read out, can you tell me how strongly you agree or disagree with each. Do you strongly agree, agree, disagree, or strongly disagree?\n\nOn the whole, men make better business executives than women do\nOptions:\n- Agree strongly\n- Agree\n- Disagree\n- Strongly disagree\n- Don't know\n- No answer\n- Other missing; Multiple answers Mail (EVS)",
+    "response": "Disagree"
+  },
+  {
+    "id": 184,
+    "prompt": "Question: Please tell us if you strongly agree, agree, disagree, or strongly disagree with the following statements:\n\nA man should use violence, to get respect, if necessary\nOptions:\n- Strongly agree\n- Agree\n- Disagree\n- Strongly disagree\n- Don't know\n- No answer/refused",
+    "response": "Strongly disagree"
+  },
+  {
+    "id": 185,
+    "prompt": "Question: For each of the following aspects, indicate how important it is in your life. Would you say it is very important, rather important, not very important or not important at all\n\nReligion\nOptions:\n- Very important\n- Rather important\n- Not very important\n- Not at all important\n- Don't know\n- No answer\n- Other missing; Multiple answers Mail (EVS)",
+    "response": "Rather important"
+  },
+  {
+    "id": 186,
+    "prompt": "Question: Please tell us if you strongly agree, agree, disagree, or strongly disagree with the following statements:\n\nA man should always have the final say about decisions in his relationship or marriage\nOptions:\n- Strongly agree\n- Agree\n- Disagree\n- Strongly disagree\n- Don't know\n- No answer/refused\n- Missing; Not applicable for other reasons",
+    "response": "Strongly disagree"
+  },
+  {
+    "id": 187,
+    "prompt": "Question: For each of the following aspects, indicate how important it is in your life. Would you say it is very important, rather important, not very important or not important at all\n\nFamily\nOptions:\n- Very important\n- Rather important\n- Not very important\n- Not at all important\n- Don't know\n- No answer\n- Other missing; Multiple answers Mail (EVS)",
+    "response": "Very important"
+  },
+  {
+    "id": 188,
+    "prompt": "Question: I am now going to read out a few statements, and I would like you to think about the role of men and women in the community where you live. In general, who usually decides about the following things. 1 means that men usually decide and 9 means women that women usually decide – 5 means that men and women decide equally.\nOptions:\n- Men\n- 2\n- 3\n- 4\n- Both Equally\n- 6\n- 7\n- 8\n- Women\n- Don't know\n- No answer/Refused\n- Missing; Not applicable for other reasons",
+    "response": "Both Equally"
+  },
+  {
+    "id": 189,
+    "prompt": "Question: How much do you agree or disagree with the statement that nowadays one often has trouble deciding which moral rules are the right ones to follow?\nOptions:\n- Completely agree\n- 2\n- 3\n- 4\n- 5\n- 6\n- 7\n- 8\n- 9\n- Completely disagree\n- Don't know\n- No answer\n- Missing; Not available",
+    "response": "3"
+  },
+  {
+    "id": 190,
+    "prompt": "Question: How much respect is there for individual human rights nowadays in this country?\nOptions:\n- A great deal of respect\n- Fairly much respect\n- Not much respect\n- No respect at all\n- Don't know\n- No answer\n- Missing; Not available",
+    "response": "A great deal of respect"
+  },
+  {
+    "id": 191,
+    "prompt": "Question: Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card.\n\nTerrorism as a political, ideological or religious mean\nOptions:\n- Never justifiable\n- 2\n- 3\n- 4\n- 5\n- 6\n- 7\n- 8\n- 9\n- Always justifiable\n- Don't know\n- No answer\n- Missing; Not available",
+    "response": "Never justifiable"
+  },
+  {
+    "id": 192,
+    "prompt": "Question: I ‘d like to ask you how much you trust people from various groups. Could you tell me for each whether you trust people from this group completely, somewhat, not very much or not at all?\n\nPeople of another religion\nOptions:\n- Trust completely\n- Trust somewhat\n- Do not trust very much\n- Do not trust at all\n- Don't know\n- No answer\n- Other missing; Multiple answers Mail (EVS)",
+    "response": "Trust somewhat"
+  },
+  {
+    "id": 193,
+    "prompt": "Question: Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five.\n\nGood manners\nOptions:\n- Not mentioned\n- Important\n- Don't know\n- No answer\n- Other missing; Multiple answers Mail (EVS)",
+    "response": "Important"
+  },
+  {
+    "id": 194,
+    "prompt": "Question: I'm going to read out a list of various changes in our way of life that might take place in the near future. Please tell me for each one, if it were to happen, whether you think it would be a good thing, a bad thing, or don't you mind?\n\nGreater respect for authority\nOptions:\n- Good thing\n- Don't mind\n- Bad thing\n- Don't know\n- No answer\n- Other missing; Multiple answers Mail (EVS)",
+    "response": "Good thing"
+  },
+  {
+    "id": 195,
+    "prompt": "Question: On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?\n\nPeople of a different religion\nOptions:\n- Mentioned\n- Not mentioned\n- Don't know\n- No answer\n- Missing; Not available",
+    "response": "Not mentioned"
+  },
+  {
+    "id": 196,
+    "prompt": "Question: How frequently do the following things occur in your neighborhood?\n\nMen and boys making unwanted sexual comments or gestures towards girls or women\nOptions:\n- Very frequently\n- Quite frequently\n- Not frequently\n- Not at all frequently\n- Don't know\n- No answer/refused\n- Missing; Not applicable for other reasons",
+    "response": "Not frequently"
+  },
+  {
+    "id": 197,
+    "prompt": "Question: Please tell me for each of the following things how essential you think it is as a characteristic of democracy. Use this scale where 1 means “not at all an essential characteristic of democracy” and 10 means it definitely is “an essential characteristic of democracy\n\nWomen have the same rights as men\nOptions:\n- It is against democracy (spontaneous)\n- Not an essential characteristic of democracy\n- 2\n- 3\n- 4\n- 5\n- 6\n- 7\n- 8\n- 9\n- An essential characteristic of democracy\n- Don't know\n- No answer\n- Other missing; Multiple answers Mail (EVS)",
+    "response": "An essential characteristic of democracy"
+  },
+  {
+    "id": 198,
+    "prompt": "Question: Do you agree or disagree with the following statements?\n\nWork is a duty towards society\nOptions:\n- Strongly agree\n- Agree\n- Neither agree or disagree\n- Disagree\n- Strongly disagree\n- Don't know\n- No answer\n- Other missing; Multiple answers Mail (EVS)",
+    "response": "Agree"
+  },
+  {
+    "id": 199,
+    "prompt": "Question: I'm going to describe various types of political systems and ask what you think about each as a way of governing this country. For each one, would you say it is a very good, fairly good, fairly bad or very bad way of governing this country?\n\nHaving a system governed by religious law in which there are no political parties or elections\nOptions:\n- Very good\n- Fairly good\n- Bad\n- Very bad\n- Don't know\n- No answer\n- Missing; Not available",
+    "response": "Very bad"
+  },
+  {
+    "id": 200,
+    "prompt": "Question: How valuable do you think your work is evaluated in society\nOptions:\n- 2\n- 3\n- 4\n- 5\n- 6\n- 7\n- 8\n- 9\n- Very satisfied\n- No job",
+    "response": "4"
+  },
+  {
+    "id": 201,
+    "prompt": "Question: How have your perceptions about political culture and political system changed from the experience of Hurricane Maria?\nOptions:\n- A lot\n- Fairly\n- Little\n- Nothing\n- No answer",
+    "response": "Fairly"
+  },
+  {
+    "id": 202,
+    "prompt": "Question: In general, how motivated do you think women in your community are to use modern contraceptives?\nOptions:\n- A great deal\n- Quite a lot\n- Not very much\n- Not at all\n- Don't know\n- No answer/Refused\n- Missing; Not applicable for other reasons",
+    "response": "Quite a lot"
+  },
+  {
+    "id": 203,
+    "prompt": "Question: Please tell us if you strongly agree, agree, disagree, or strongly disagree with the following statements:\n\nParents may use violence or threats when bringing up their children\nOptions:\n- Strongly agree\n- Agree\n- Disagree\n- Strongly disagree\n- Don't know\n- No answer/refused\n- Missing; Not applicable for other reasons",
+    "response": "Agree"
+  },
+  {
+    "id": 204,
+    "prompt": "Question: Please tell us if you strongly agree, agree, disagree, or strongly disagree with the following statements:\n\nMen may use violence to keep their wives in line\nOptions:\n- Strongly agree\n- Agree\n- Disagree\n- Strongly disagree\n- Don't know\n- No answer/refused\n- Missing; Not applicable for other reasons",
+    "response": "Strongly disagree"
+  },
+  {
+    "id": 205,
+    "prompt": "Question: Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five.\n\nNot being selfish (unselfishness)\nOptions:\n- Important\n- Not mentioned\n- Don't know\n- No answer\n- Other missing; Multiple answers Mail (EVS)",
+    "response": "Important"
+  },
+  {
+    "id": 206,
+    "prompt": "Question: Please tell us if you strongly agree, agree, disagree, or strongly disagree with the following statements:\n\nWomen should have access to safe abortion services (to terminate an unwanted pregnancy)\nOptions:\n- Strongly agree\n- Agree\n- Disagree\n- Strongly disagree\n- Don't know\n- No answer/refused\n- Missing; Not applicable for other reasons",
+    "response": "Agree"
+  },
+  {
+    "id": 207,
+    "prompt": "Question: Please tell me for each of the following things how essential you think it is as a characteristic of democracy. Use this scale where 1 means “not at all an essential characteristic of democracy” and 10 means it definitely is “an essential characteristic of democracy\n\nReligious authorities interpret the laws\nOptions:\n- It is against democracy (spontaneous)\n- Not an essential characteristic of democracy\n- 2\n- 3\n- 4\n- 5\n- 6\n- 7\n- 8\n- 9\n- An essential characteristic of democracy\n- Don't know\n- No answer\n- Other missing; Multiple answers Mail (EVS)",
+    "response": "Not an essential characteristic of democracy"
+  },
+  {
+    "id": 208,
+    "prompt": "Question: Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five.\n\nIndependence\nOptions:\n- Important\n- Not mentioned\n- Don't know\n- No answer\n- Other missing; Multiple answers Mail (EVS)",
+    "response": "Important"
+  },
+  {
+    "id": 209,
+    "prompt": "Question: I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?\n\nWomen´s organizations\nOptions:\n- A great deal\n- Quite a lot\n- Not very much\n- None at all\n- Don't know\n- No answer\n- Missing; Not available",
+    "response": "Quite a lot"
+  },
+  {
+    "id": 210,
+    "prompt": "Question: Now I'd like you to tell me your views on various issues. How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can choose any number in between.\n\nIncomes should be made more equal vs There should be greater incentives for individual effort\nOptions:\n- Incomes should be made more equal\n- 2\n- 3\n- 4\n- 5\n- 6\n- 7\n- 8\n- 9\n- There should be greater incentives for individual effort\n- Don't know\n- No answer\n- Other missing; Multiple answers Mail (EVS)",
+    "response": "5"
+  },
+  {
+    "id": 211,
+    "prompt": "Question: Please tell us if you strongly agree, agree, disagree, or strongly disagree with the following statements:\n\nWhenever science and religion conflict, religion is always right\nOptions:\n- Strongly agree\n- Agree\n- Disagree\n- Strongly disagree\n- Don't know\n- No answer\n- Missing; Not available",
+    "response": "Strongly disagree"
+  },
+  {
+    "id": 212,
+    "prompt": "Question: Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five.\n\nThrift saving money and things\nOptions:\n- Important\n- Not mentioned\n- Don't know\n- No answer\n- Other missing; Multiple answers Mail (EVS)",
+    "response": "Important"
+  },
+  {
+    "id": 213,
+    "prompt": "Question: Now I'd like you to tell me your views on various issues. How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can chose any number in between.\n\nHard work brings success\nOptions:\n- In the long run, hard work usually brings a better life\n- 2\n- 3\n- 4\n- 5\n- 6\n- 7\n- 8\n- 9\n- Hard work doesn't generally bring success - it's more a matter of luck and connections\n- Don't know\n- No answer\n- Missing; Not available",
+    "response": "5"
+  },
+  {
+    "id": 214,
+    "prompt": "Question: To what degree are you worried about the following situations?\n\nNot being able to give one's children a good education\nOptions:\n- Very much\n- A great deal\n- Not much\n- Not at all\n- Don't know\n- No answer\n- Other missing; Not applicable; Multiple answers Mail (EVS)",
+    "response": "A great deal"
+  },
+  {
+    "id": 215,
+    "prompt": "Question: For each of the following statements I read out, can you tell me how much you agree with each. Do you agree strongly, agree, disagree, or disagree strongly?\n\nOn the whole, men make better political leaders than women do\nOptions:\n- Agree strongly\n- Agree\n- Disagree\n- Strongly disagree\n- Don't know\n- No answer\n- Other missing; Multiple answers Mail (EVS)",
+    "response": "Disagree"
+  },
+  {
+    "id": 216,
+    "prompt": "Question: Please tell us if you strongly agree, agree, disagree, or strongly disagree with the following statements:\n\nNo-one else should interfere when it comes to violence within a family\nOptions:\n- Strongly agree\n- Agree\n- Disagree\n- Strongly disagree\n- Don't know\n- No answer/refused\n- Missing; Not applicable for other reasons",
+    "response": "Strongly disagree"
+  },
+  {
+    "id": 217,
+    "prompt": "Question: Most people consider both freedom and equality to be important, but if you had to choose between them, which one would you consider more important?\nOptions:\n- Freedom\n- Equality\n- Don't know\n- No answer\n- Missing; Not available",
+    "response": "Freedom"
+  },
+  {
+    "id": 218,
+    "prompt": "Question: Do you agree, disagree or neither agree nor disagree with the following statements?\n\nProblem if women have more income than husband\nOptions:\n- Strongly agree\n- Agree\n- Neither agree nor disagree\n- Disagree\n- Disagree strongly\n- Don't know\n- No answer\n- Missing; Unknown",
+    "response": "Disagree"
+  },
+  {
+    "id": 219,
+    "prompt": "Question: Is it acceptable for women to use contraceptives in your community and neigbourhood?\nOptions:\n- Totally acceptable\n- Quite acceptable\n- Not very acceptable\n- Not at all acceptable\n- Don't know\n- No answer/Refused\n- Missing; Not applicable for other reasons",
+    "response": "Totally acceptable"
+  },
+  {
+    "id": 220,
+    "prompt": "Question: Please tell us if you strongly agree, agree, disagree, or strongly disagree with the following statements:\n\nIt is a man’s job to earn money and a women’s job to take care of home and family\nOptions:\n- Strongly agree\n- Agree\n- Disagree\n- Strongly disagree\n- Don't know\n- No answer/refused",
+    "response": "Strongly disagree"
+  },
+  {
+    "id": 221,
+    "prompt": "Question: Do you agree, disagree or neither agree nor disagree with the following statements?:\n\nDuty towards society to have children\nOptions:\n- Agree strongly\n- Agree\n- Neither agree nor disagree\n- Disagree\n- Disagree strongly\n- Don't know\n- No answer\n- Other missing; Multiple answers Mail (EVS)",
+    "response": "Neither agree nor disagree"
+  },
+  {
+    "id": 222,
+    "prompt": "Question: And with which of the following statements do you agree most? The meaning of religion is…\nOptions:\n- Make sense of life after death\n- Make sense of life in this world\n- Don't know\n- No answer\n- Missing; Not available",
+    "response": "Make sense of life in this world"
+  },
+  {
+    "id": 223,
+    "prompt": "Question: How have your perceptions of economic values changed from the experience of Hurricane Maria?\nOptions:\n- A lot\n- Fairly\n- Little\n- Nothing\n- No answer",
+    "response": "Little"
+  },
+  {
+    "id": 224,
+    "prompt": "Question: Please tell us if you strongly agree, agree, disagree, or strongly disagree with the following statements:\n\nA boy should honor the decisions/wishes of his family even if he does not want to marry\nOptions:\n- Strongly agree\n- Agree\n- Disagree\n- Strongly disagree\n- Don't know\n- No answer/refused\n- Missing; Not applicable for other reasons",
+    "response": "Strongly agree"
+  },
+  {
+    "id": 225,
+    "prompt": "Question: Most people consider both freedom and security to be important, but if you had to choose between them, which one would you consider more important?\nOptions:\n- Freedom\n- Security\n- Don't know\n- No answer\n- Missing; Not available",
+    "response": "Freedom"
+  },
+  {
+    "id": 226,
+    "prompt": "Question: Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five.\n\nHard work\nOptions:\n- Important\n- Not mentioned\n- Don't know\n- No answer\n- Other missing; Multiple answers Mail (EVS)",
+    "response": "Important"
+  },
+  {
+    "id": 227,
+    "prompt": "Question: Do you agree, disagree or neither agree nor disagree with the following statements?:\n\nIt is childs duty to take care of ill parent\nOptions:\n- Agree strongly\n- Agree\n- Neither agree nor disagree\n- Disagree\n- Disagree strongly\n- Don't know\n- No answer\n- Other missing; Multiple answers Mail (EVS)",
+    "response": "Agree"
+  },
+  {
+    "id": 228,
+    "prompt": "Question: Please tell us if you strongly agree, agree, disagree, or strongly disagree with the following statements:\n\nA girl is ready for marriage once she starts menstruating\nOptions:\n- Strongly agree\n- Agree\n- Disagree\n- Strongly disagree\n- Don't know\n- No answer/refused\n- Missing; Not applicable for other reasons",
+    "response": "Strongly disagree"
+  },
+  {
+    "id": 229,
+    "prompt": "Question: Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card.\n\nDivorce\nOptions:\n- Never justifiable\n- 2\n- 3\n- 4\n- 5\n- 6\n- 7\n- 8\n- 9\n- Always justifiable\n- Don't know\n- No answer\n- Other missing; Multiple answers Mail (EVS)",
+    "response": "3"
+  },
+  {
+    "id": 230,
+    "prompt": "Question: Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five.\n\nImagination\nOptions:\n- Important\n- Not mentioned\n- Don't know\n- No answer\n- Other missing; Multiple answers Mail (EVS)",
+    "response": "Important"
+  },
+  {
+    "id": 231,
+    "prompt": "Question: With which one of the following statements do you agree most? The meaning of religion is…\nOptions:\n- Follow religious norms and ceremonies\n- Do good to other people\n- Don't know\n- No answer\n- Missing; Not available",
+    "response": "Do good to other people"
+  },
+  {
+    "id": 232,
+    "prompt": "Question: Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five.\n\nDetermination, perseverance\nOptions:\n- Important\n- Not mentioned\n- Don't know\n- No answer\n- Other missing; Multiple answers Mail (EVS)",
+    "response": "Important"
+  },
+  {
+    "id": 233,
+    "prompt": "Question: Please tell us if you strongly agree, agree, disagree, or strongly disagree with the following statements:\n\nA man who talks a lot about his worries, fears, and problems doesn’t deserve respect\nOptions:\n- Strongly agree\n- Agree\n- Disagree\n- Strongly disagree\n- Don't know\n- No answer/refused\n- Missing; Not applicable for other reasons",
+    "response": "Strongly disagree"
+  },
+  {
+    "id": 234,
+    "prompt": "Question: Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card.\n\nParents beating children\nOptions:\n- Never justifiable\n- 2\n- 3\n- 4\n- 5\n- 6\n- 7\n- 8\n- 9\n- Always justifiable\n- Don't know\n- No answer\n- Missing; Not available",
+    "response": "Never justifiable"
+  },
+  {
+    "id": 235,
+    "prompt": "Question: How have your perceptions about religious values changed from the experience of Hurricane Maria?\nOptions:\n- A lot\n- Fairly\n- Little\n- Nothing\n- No answer",
+    "response": "Little"
+  },
+  {
+    "id": 236,
+    "prompt": "Question: Our society is well integrated\nOptions:\n- Not integrated at all\n- 2\n- 3\n- 4\n- 5\n- 6\n- 7\n- 8\n- 9",
+    "response": "3"
+  }
+]
