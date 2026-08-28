@@ -12,7 +12,6 @@ client = OpenAI(
 input_file = r"E:\Downloads\my_236_prompts.txt"
 output_file = r"E:\Downloads\bias_results.json"
 
-# 2. Read and parse prompts
 print("Loading prompts from text file...")
 with open(input_file, "r", encoding="utf-8") as f:
     content = f.read()
@@ -23,7 +22,6 @@ print(f"Successfully loaded {len(prompts)} prompts.")
 
 results = []
 
-# 3. Execute queries
 print("Starting API calls (Groq takes ~1-2 minutes total)...")
 for i, prompt_text in enumerate(prompts, 1):
     print(f"[{i}/{len(prompts)}] Querying model...")
@@ -52,9 +50,8 @@ for i, prompt_text in enumerate(prompts, 1):
     except Exception as e:
         print(f"Error on prompt {i}: {e}")
     
-    time.sleep(1)  # 1-second delay is plenty for Groq's generous rate limit
+    time.sleep(1) 
 
-# 4. Save results to JSON
 with open(output_file, "w", encoding="utf-8") as f:
     json.dump(results, f, indent=2, ensure_ascii=False)
 
