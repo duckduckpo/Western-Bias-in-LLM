@@ -2,7 +2,7 @@
 
 This repository contains an NLP data pipeline built to analyze the cultural alignment of Large Language Models. By querying LLMs with global survey questions, this project measures whether models default to Western (individualist/secular) or Non-Western (collectivist/traditional) values. 
 
-Designed as a 3rd-year B.Tech Computer Networks project, this research explores how centralized network infrastructure and globalized data scraping can homogenize AI behavior, standardizing localized cultures across the web regardless of the model's geographic origin.
+Designed as a 3rd-year B.Tech Artificial Intelligence project, this research explores how centralized network infrastructure and globalized data scraping can homogenize AI behavior, standardizing localized cultures across the web regardless of the model's geographic origin.
 
 ## Key Findings
 * **The 5x Ratio:** Both GPT-20B and Qwen chose Western-aligned responses roughly 4 to 5 times more often than Non-Western responses.
