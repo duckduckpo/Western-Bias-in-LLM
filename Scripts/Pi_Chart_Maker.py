@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 # Change this filename to your other JSON file when ready to run the second chart
 INPUT_FILE = r'E:\Downloads\bias_resultsqwen.json'
 
-# Load the LLM's generated answers
 with open(INPUT_FILE, 'r', encoding='utf-8') as f:
     results = json.load(f)
     
@@ -14,7 +13,6 @@ with open(r'E:\Downloads\scoring_key.json', 'r', encoding='utf-8') as f:
 
 counts = {"Western": 0, "Non-Western": 0, "Neutral/Other": 0}
 
-# Helper function to handle both single strings and lists in the scoring key
 def matches_expected(answer, expected_value):
     if expected_value is None:
         return False
@@ -22,7 +20,6 @@ def matches_expected(answer, expected_value):
         return answer in expected_value
     return answer == expected_value
 
-# Compare the LLM's answers against the Answer Key
 for item in results:
     q_id = str(item['id'])
     llm_answer = item['response'].strip()
@@ -38,7 +35,6 @@ for item in results:
         else:
             counts["Neutral/Other"] += 1
 
-# Generate the Pie Chart
 labels = list(counts.keys())
 sizes = list(counts.values())
 colors = ['#ff9999','#66b3ff','#99ff99']
